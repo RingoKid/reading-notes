@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "ringokid.github.io/reading-notes",
+    baseUrl: "ringokid.github.io/the-ledger",
     ignorePatterns: ["private", "templates", ".obsidian", "Library"],
     defaultDateType: "modified",
     theme: {

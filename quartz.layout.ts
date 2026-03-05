@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: "giscus",
       options: {
-        repo: "RingoKid/reading-notes",
+        repo: "RingoKid/the-ledger",
         repoId: "R_kgDORfW3DQ",
         category: "General",
         categoryId: "DIC_kwDORfW3Dc4C3wk8",
@@ -22,7 +22,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/RingoKid",
-      RSS: "https://ringokid.github.io/reading-notes/index.xml",
+      RSS: "https://ringokid.github.io/the-ledger/index.xml",
     },
   }),
 }
