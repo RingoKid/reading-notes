@@ -1,10 +1,3 @@
----
-tags:
-  - dostoevsky
-  - russian-lit
-  - fiction
-  - faith
----
 
 ![[karamazov-banner.jpg]]
 # The Brothers Karamazov
@@ -14,6 +7,17 @@ tags:
 **Finished:**
 **Library:**
 **Current Position:** Part 1, Book 3, Chapter 5 (not started)
+
+---
+
+## Reading Sessions
+
+| Part | Books | Notes |
+|------|-------|-------|
+| [[The Brothers Karamazov — Part 1\|Part 1 — The History of a Certain Family]] | Books 1–3 | ✅ In progress |
+| Part 2 — *(not started)* | Books 4–6 | — |
+| Part 3 — *(not started)* | Books 7–9 | — |
+| Part 4 — *(not started)* | Books 10–12 + Epilogue | — |
 
 ---
 
@@ -181,17 +185,6 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 *The Underground Man is a prototype for Ivan Karamazov. Note echoes as you read.*
 
 -
-
----
-
-## Reading Sessions
-
-| Part | Books | Notes |
-|------|-------|-------|
-| [[The Brothers Karamazov — Part 1\|Part 1 — The History of a Certain Family]] | Books 1–3 | ✅ In progress |
-| Part 2 — *(not started)* | Books 4–6 | — |
-| Part 3 — *(not started)* | Books 7–9 | — |
-| Part 4 — *(not started)* | Books 10–12 + Epilogue | — |
 
 ---
 

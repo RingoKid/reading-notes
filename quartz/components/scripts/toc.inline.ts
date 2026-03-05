@@ -11,6 +11,13 @@ const observer = new IntersectionObserver((entries) => {
       }
     }
   }
+
+  // Auto-scroll ToC to keep the last in-view item visible
+  const tocContent = document.querySelector(".toc-content")
+  const lastInView = document.querySelector(".toc-content a.in-view:last-of-type")
+  if (tocContent && lastInView) {
+    lastInView.scrollIntoView({ block: "nearest", behavior: "smooth" })
+  }
 })
 
 function toggleToc(this: HTMLElement) {

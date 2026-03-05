@@ -10,19 +10,29 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
 }
 
 document.addEventListener("nav", () => {
-  const switchTheme = () => {
-    const newTheme =
-      document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
+  const applyTheme = (newTheme: "light" | "dark") => {
     document.documentElement.setAttribute("saved-theme", newTheme)
     localStorage.setItem("theme", newTheme)
     emitThemeChangeEvent(newTheme)
   }
 
+  const switchTheme = () => {
+    const newTheme =
+      document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
+
+    if (!document.startViewTransition) {
+      applyTheme(newTheme)
+      return
+    }
+
+    document.startViewTransition(() => {
+      applyTheme(newTheme)
+    })
+  }
+
   const themeChange = (e: MediaQueryListEvent) => {
     const newTheme = e.matches ? "dark" : "light"
-    document.documentElement.setAttribute("saved-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
-    emitThemeChangeEvent(newTheme)
+    applyTheme(newTheme)
   }
 
   for (const darkmodeButton of document.getElementsByClassName("darkmode")) {

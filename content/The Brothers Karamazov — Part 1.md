@@ -1,11 +1,3 @@
----
-tags:
-  - dostoevsky
-  - russian-lit
-  - fiction
-  - faith
----
-
 ← [[The Brothers Karamazov]]
 
 # Part 1 — The History of a Certain Family
