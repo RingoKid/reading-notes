@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Tiro Devanagari Sanskrit",
+        body: "Tiro Devanagari Sanskrit",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "hsla(35, 36%, 96%, 1)",       // Primary gray-20: warm cream bg
+          lightgray: "hsla(36, 35%, 88%, 1)",   // Primary gray-50: borders, sidebar
+          gray: "hsla(34, 29%, 60%, 1)",         // Primary gray-80: muted elements
+          darkgray: "hsla(36, 32%, 30%, 1)",     // Primary gray-120: body text
+          dark: "hsla(33, 54%, 17%, 1)",         // Primary gray-140: headers
+          secondary: "hsla(202, 66%, 48%, 1)",   // Primary blue-20: links
+          tertiary: "hsla(197, 39%, 56%, 1)",    // Primary blue-10: hover
+          highlight: "rgba(42, 143, 192, 0.1)",  // blue tint for link bg
+          textHighlight: "#f5d06088",             // warm yellow highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "hsla(29, 16%, 13%, 1)",        // Primary d-gray-120: dark bg
+          lightgray: "hsla(28, 22%, 19%, 1)",    // Primary d-gray-80: borders
+          gray: "hsla(33, 27%, 33%, 1)",          // Primary d-gray-60: muted
+          darkgray: "hsla(34, 31%, 68%, 1)",      // Primary d-gray-30: body text
+          dark: "hsla(32, 48%, 85%, 1)",          // Primary d-gray-10: headers
+          secondary: "hsla(194, 59%, 56%, 1)",    // Primary d-blue-20: links
+          tertiary: "hsla(191, 54%, 62%, 1)",     // Primary d-blue-10: hover
+          highlight: "rgba(77, 197, 222, 0.15)", // dark blue tint for link bg
+          textHighlight: "#b3aa0288",             // warm highlight
         },
       },
     },

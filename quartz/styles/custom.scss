@@ -1,5 +1,11 @@
 @use "./base.scss";
 
+// Match Obsidian font size (17px)
+:root {
+  --bodyFont: "Tiro Devanagari Sanskrit", serif;
+  font-size: 17px;
+}
+
 // Float images right when alt text contains "right"
 // Usage: ![[image.png|right|300]]
 img[alt*="right"] {
