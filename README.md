@@ -14,12 +14,4 @@ Chapter-by-chapter reading notes with illustrations.
 
 ---
 
-## Publishing
-
-Notes are written in Obsidian and published via a single command:
-
-```bash
-/read publish karamazov
-```
-
 Built with [Quartz](https://quartz.jzhao.xyz/) and deployed to GitHub Pages.
