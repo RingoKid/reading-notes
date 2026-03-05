@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteId: "ringokid",
     },
     locale: "en-US",
     baseUrl: "ringokid.github.io/the-ledger",
