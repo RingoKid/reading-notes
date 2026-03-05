@@ -49,9 +49,6 @@ Madame Khokhlakova asks Zosima how to believe in God and the afterlife. Zosima's
 The ecclesiastical courts debate. Ivan's article argued the state should be absorbed into the church (not the other way around). The monks (Iosif, Paissy) actually side with Ivan. Miusov sides with the clerical opponent who wants separation. The irony: Ivan the possible non-believer makes the argument the monks love, while the churchman wrote the position the monks reject. **Dmitri arrives at the end** — the gathering is finally complete.
 
 ### Ch 6 — "Why Is Such a Man Alive!"
-![[karamazov-zosima-bow-v2.jpg|right|300]]
-<div class="img-caption">"A faint smile lingered on the elder's lips"</div>
-
 Miusov reveals Ivan's private position: without immortality, no virtue; without God, everything is permitted — even cannibalism. Zosima reads Ivan instantly: "this question is not resolved in you, and that is the source of your great anguish." Ivan blushes, half-admits it. Fyodor casts the family as Schiller's *Robbers* — Ivan as Karl (noble), Dmitri as Franz (villain), himself as the father. The gathering explodes. Miusov watches Ivan walk to dinner untouched by the chaos — "a brazen expression and the conscience of a Karamazov." Ivan is a Karamazov too, just polished.
 
 ### Ch 7 — "A Seminarist-Careerist"
