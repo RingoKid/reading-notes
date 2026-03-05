@@ -1,17 +1,25 @@
-# Quartz v4
+# Reading Notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Chapter-by-chapter reading notes with illustrations.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+📖 **Live site:** https://ringokid.github.io/reading-notes/
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Books
 
-## Sponsors
+| Book | Status | Notes |
+|------|--------|-------|
+| The Brothers Karamazov — Dostoevsky | In progress | `content/The Brothers Karamazov*.md` |
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+
+## Publishing
+
+Notes are written in Obsidian and published via a single command:
+
+```bash
+/read publish karamazov
+```
+
+Built with [Quartz](https://quartz.jzhao.xyz/) and deployed to GitHub Pages.
