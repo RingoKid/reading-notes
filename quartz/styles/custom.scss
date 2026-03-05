@@ -1,3 +1,23 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Float images right when alt text contains "right"
+// Usage: ![[image.png|right|300]]
+img[alt*="right"] {
+  float: right;
+  margin: 0 0 4px 15px;
+  border-radius: 6px;
+}
+
+// Newspaper-style caption under floated images
+// Usage: <div class="img-caption">Caption text</div>
+.img-caption {
+  float: right;
+  clear: right;
+  width: 300px;
+  margin: 0 0 10px 15px;
+  text-align: center;
+  font-size: 0.8em;
+  font-style: italic;
+  color: var(--gray);
+  line-height: 1.3;
+}

@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Reading Notes",
+    pageTitleSuffix: " | RingoKid",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "ringokid.github.io/reading-notes",
+    ignorePatterns: ["private", "templates", ".obsidian", "Library"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
