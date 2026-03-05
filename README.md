@@ -15,3 +15,4 @@ Chapter-by-chapter reading notes with illustrations.
 ---
 
 Built with [Quartz](https://quartz.jzhao.xyz/) and deployed to GitHub Pages.
+# Reading Notes
