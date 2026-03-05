@@ -1,13 +1,22 @@
 ---
-title: Reading Notes
+title: The Ledger
+comments: false
 ---
 
-# Reading Notes
-
-Chapter-by-chapter notes, context, and illustrations.
+![The Ledger banner](attachments/ledger-banner-distance.jpg)
 
 ## Books
 
-| | |
-|---|---|
-| ![The Brothers Karamazov cover\|150](attachments/karamazov-cover.jpg) | **[[The Brothers Karamazov]]** <br> Fyodor Dostoevsky <br> Translated by Michael R. Katz <br> *(in progress)* |
+<div class="book-list">
+
+<div class="book-entry">
+  <img src="attachments/karamazov-cover.jpg" alt="The Brothers Karamazov cover">
+  <div class="book-info">
+    <strong><a href="The-Brothers-Karamazov">The Brothers Karamazov</a></strong><br>
+    Fyodor Dostoevsky<br>
+    Translated by Michael R. Katz<br>
+    <em>in progress</em>
+  </div>
+</div>
+
+</div>

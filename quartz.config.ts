@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Reading Notes",
-    pageTitleSuffix: " | RingoKid",
+    pageTitle: "The Ledger",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -34,9 +34,9 @@ const config: QuartzConfig = {
           gray: "hsla(34, 29%, 60%, 1)",         // Primary gray-80: muted elements
           darkgray: "hsla(36, 32%, 30%, 1)",     // Primary gray-120: body text
           dark: "hsla(33, 54%, 17%, 1)",         // Primary gray-140: headers
-          secondary: "hsla(202, 66%, 48%, 1)",   // Primary blue-20: links
-          tertiary: "hsla(197, 39%, 56%, 1)",    // Primary blue-10: hover
-          highlight: "rgba(42, 143, 192, 0.1)",  // blue tint for link bg
+          secondary: "hsla(4, 72%, 55%, 1)",      // Primary red-20: links
+          tertiary: "hsla(4, 59%, 64%, 1)",      // Primary red-10: hover
+          highlight: "hsla(350, 84%, 63%, 0.1)", // red tint for link bg
           textHighlight: "#f5d06088",             // warm yellow highlight
         },
         darkMode: {
@@ -45,9 +45,9 @@ const config: QuartzConfig = {
           gray: "hsla(33, 27%, 33%, 1)",          // Primary d-gray-60: muted
           darkgray: "hsla(34, 31%, 68%, 1)",      // Primary d-gray-30: body text
           dark: "hsla(32, 48%, 85%, 1)",          // Primary d-gray-10: headers
-          secondary: "hsla(194, 59%, 56%, 1)",    // Primary d-blue-20: links
-          tertiary: "hsla(191, 54%, 62%, 1)",     // Primary d-blue-10: hover
-          highlight: "rgba(77, 197, 222, 0.15)", // dark blue tint for link bg
+          secondary: "hsla(4, 91%, 67%, 1)",      // Primary d-red-20: links
+          tertiary: "hsla(5, 94%, 73%, 1)",      // Primary d-red-10: hover
+          highlight: "hsla(350, 84%, 63%, 0.15)", // dark red tint for link bg
           textHighlight: "#b3aa0288",             // warm highlight
         },
       },
@@ -72,6 +72,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.HardLineBreaks(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

@@ -1,5 +1,19 @@
 @use "./base.scss";
 
+// RDR2-style font for site title
+@font-face {
+  font-family: "Chinese Rocks";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.cdnfonts.com/s/2754/chinese rocks rg.woff") format("woff");
+}
+
+.page-title {
+  font-family: "Chinese Rocks", serif !important;
+  font-size: 2.2rem !important;
+  letter-spacing: 0.05em;
+}
+
 // Match Obsidian Primary theme: Tiro Devanagari Sanskrit at 17px
 article, .page-header, h1, h2, h3, h4, h5, h6, p, li, blockquote {
   font-family: "Tiro Devanagari Sanskrit", serif !important;
@@ -15,6 +29,30 @@ img[alt*="right"] {
   float: right;
   margin: 0 0 4px 15px;
   border-radius: 6px;
+}
+
+// Bold text in red to match Obsidian Primary theme
+article strong {
+  color: var(--secondary);
+}
+
+// Book list on index page
+.book-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.2rem;
+  margin-bottom: 1.5rem;
+
+  img {
+    width: 120px;
+    border-radius: 4px;
+    flex-shrink: 0;
+  }
+
+  .book-info {
+    padding-top: 0.3rem;
+    line-height: 1.6;
+  }
 }
 
 // Newspaper-style caption under floated images

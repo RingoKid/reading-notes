@@ -1,3 +1,10 @@
+---
+tags:
+  - dostoevsky
+  - russian-lit
+  - fiction
+  - faith
+---
 
 ![[karamazov-banner.jpg]]
 # The Brothers Karamazov
@@ -21,12 +28,6 @@
 - **Faith vs. doubt** — the central tension. Each brother represents a different relationship with God
 - **The problem of suffering** — if God exists, why do innocents suffer? Ivan's rebellion isn't atheism, it's rejecting God's world while accepting He might exist (similar to questioning *qadr* in Islam)
 - **The sins of the father** — every problem traces back to Fyodor's abandonment
-
-## Reading as a Muslim — Key Context
-- The faith here is **Russian Orthodox Christianity** — icons, saints, and praying to Mary (Maryam) for intercession are central
-- Elders (*starets*) like Zosima function like Sufi sheikhs — spiritual masters you submit to for guidance
-- Alyosha's surrendering faith has a quality close to *tawakkul*
-- Dostoevsky takes faith seriously — he gives believers dignity but also gives doubters the strongest possible arguments
 
 ## The Monastery — Context
 ![[karamazov-monastery.jpg|right|300]]
