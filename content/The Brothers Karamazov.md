@@ -1,3 +1,10 @@
+---
+tags:
+  - dostoevsky
+  - russian-lit
+  - fiction
+  - faith
+---
 
 ![[karamazov-banner.jpg]]
 # The Brothers Karamazov
