@@ -1,8 +1,8 @@
-# Reading Notes
+# The Ledger
 
 Chapter-by-chapter reading notes with illustrations.
 
-📖 **Live site:** https://ringokid.github.io/reading-notes/
+📖 **Live site:** https://ringokid.github.io/the-ledger/
 
 ---
 
@@ -15,4 +15,3 @@ Chapter-by-chapter reading notes with illustrations.
 ---
 
 Built with [Quartz](https://quartz.jzhao.xyz/) and deployed to GitHub Pages.
-# Reading Notes
