@@ -1,8 +1,13 @@
 @use "./base.scss";
 
-// Match Obsidian font size (17px)
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit&display=swap');
+
+// Match Obsidian Primary theme: Tiro Devanagari Sanskrit at 17px
+article, .page-header, h1, h2, h3, h4, h5, h6, p, li, blockquote {
+  font-family: "Tiro Devanagari Sanskrit", serif !important;
+}
+
 :root {
-  --bodyFont: "Tiro Devanagari Sanskrit", serif;
   font-size: 17px;
 }
 
