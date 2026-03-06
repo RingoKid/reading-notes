@@ -227,4 +227,35 @@ Dmitri says "I'm a very uneducated man" — right after quoting Schiller from me
 
 Dmitri shifts from poetry to stories. He admits to his pattern with women — seductions, cruelties, abandoned girls — but dismisses them as lightweight sins, "flowers à la Paul de Kock." The real confession is what follows. He tells Alyosha about his posting in a frontier town, where a lieutenant colonel commands the battalion. The colonel has two daughters from two marriages: **Agafya** (plain, humble, beloved by everyone) and **Katerina Ivanovna** (proud, beautiful, from nobility). Dmitri discovers the colonel has been embezzling government funds — lending them to a merchant named Trifonov, who launders them through fairs and returns them with interest. When Trifonov refuses to return the money, the colonel is exposed. Dmitri makes a cruel proposition through Agafya: send me your sister, and I'll give her the money. Agafya calls him a scoundrel and storms out — but tells Katerina. The colonel nearly shoots himself; Agafya catches him just in time. Then, at dusk, Katerina appears alone at Dmitri's apartment — the proudest woman in town, standing in his doorway, trembling, asking for the money. **The camel spider bites:** Dmitri feels the predatory Karamazov lust surge through him, the desire to humiliate her, to offer her two hundred instead and sneer. For three to five seconds he hates her with a hatred "only a hairsbreadth away from insane love." Then he turns, takes a five-thousand-ruble bearer bond from his French dictionary — five hundred *more* than she asked for — hands it to her silently, and bows deeply. She drops to the floor in a full Russian prostration (*zemnoj poklon*), forehead to the ground, then runs. Dmitri draws his sword and almost kills himself — not from guilt, but from ecstasy. "Do you understand that a man can kill himself from some kinds of ecstasy?"
 
+### Ch 5 — "The Confession of an Ardent Heart. 'Upside Down.'"
+![[karamazov-dmitri-letter-v2.jpg|right|300]]
+<div class="img-caption">"I want to save you from yourself..."</div>
+
+Dmitri finishes his confession. **Katerina Ivanovna** — his fiancée, proud, wealthy (inherited 80,000 rubles from a general's widow in Moscow). **Grushenka** — the woman Dmitri can't stay away from, a sharp businesswoman under the protection of an old merchant. **Smerdyakov** — Fyodor's lackey, the only one who knows about the sealed envelope.
+
+#### My Questions While Reading
+
+**Who is the general's wife?** — Katerina Ivanovna's rich relative on her mother's side, living in Moscow. After her other nieces died, she took Katya in and made her the sole heiress.
+
+**How does the promissory note scheme work?** — A promissory note is a legal IOU. You sign a paper saying you'll pay someone a certain amount by a certain date. The paper itself can be handed to anyone — whoever holds it has the right to collect. If you pay, you get the note back and it's destroyed. If you don't pay, the holder can take you to court or ruin your reputation.
+
+**"In whose honesty he believes, as he does in his own"** — Sarcasm. Fyodor measures Smerdyakov's honesty by his own — and he knows he's dishonest.
+
+#### Highlights
+
+> "I love you madly... Don't be afraid — I won't do anything to shackle you in any way; I'll be your furniture, the carpet on which you tread... I want to love you forever, I want to save you from yourself..."
+
+Katerina's letter proposing marriage to Dmitri. He carries it everywhere, says he'll die with it.
+
+> "She loves her own virtue, not me."
+
+Dmitri on Katerina — blurted out, then immediately defended her sincerity. Both things true at once.
+
+> "She'll understand the true depth of this misfortune and she'll calm down. She has a noble intellect."
+
+Alyosha's faith that reason and goodness will sort things out.
+
+> "I believe in miracles."
+
+Dmitri sending Alyosha to ask Fyodor for money — knowing it won't work, going anyway.
 
