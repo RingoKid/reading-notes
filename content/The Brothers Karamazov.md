@@ -13,7 +13,7 @@ tags:
 **Started:** Jan 31, 2026 04:19 PM
 **Finished:**
 **Library:**
-**Current Position:** Part 1, Book 3, Chapter 6 (not started)
+**Current Position:** Part 1, Book 3, Chapter 7 (not started)
 
 ---
 
@@ -126,7 +126,13 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - Dostoevsky explicitly calls him a **realist** — not a dreamer or naive believer. This is deliberate: his faith is grounded, not escapist. Sets him up as the counter to Ivan's intellectualism
 
 ### Smerdyakov
--
+- Born to "Stinking Lizaveta" in Fyodor's bathhouse, raised by Grigory and Marfa — "without any feeling of gratitude"
+- As a child, hung cats and performed mock-Orthodox funerals over them — bedsheet surplice, pretend censer
+- At twelve, found the logical contradiction in Genesis (light on day one, sun on day four) — Grigory's answer was a slap. First epileptic fit one week later
+- Sent to Moscow to train as a cook. Returned aged, sallow, immaculately dressed — spends his entire salary on wardrobe and perfume. The son of "Stinking" Lizaveta scrubbing his origin off his skin
+- Fyodor trusts him absolutely with money — the only person in the house he does
+- The narrator compares him to the peasant in Kramskoy's *The Contemplator* — not thinking, just absorbing. Could become a pilgrim or an arsonist. Or both
+- -> [[The Brothers Karamazov — Part 1#Ch 6 — "Smerdyakov"|Deep dive: Part 1, Ch 6]]
 
 ---
 
@@ -139,6 +145,7 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - Casts his family as characters from Schiller's *The Robbers*: Ivan = Karl (the noble favorite), Dmitri = Franz (the villain), himself = Count von Moor (the father). Skips Alyosha entirely. **The irony: in Schiller's play, it's the father's failures that cause both sons to spiral.** Fyodor accidentally cast himself as the root of the problem. (Book 2, Ch 6)
 - Psychology of doubling down (Ch 8): "I did something indecent to him, and since then I've hated him" — people hate the ones they wronged, not the ones who wronged them. And: "If I started it, I will finish it" — when he can't be redeemed, he destroys the room instead
 - Almost believes his own performance — invents grievances about the monastery, nearly weeps from simulated emotion, then piles on more nonsense knowing it's nonsense (Ch 8)
+- **His drawing room ([[The Brothers Karamazov — Part 1#Ch 6 — "Smerdyakov"|Book 3, Ch 6]]):** "The furniture was ancient, white, and upholstered with old red silky material... On the walls, covered in white wallpaper, torn in many places, were two large portraits, one of some prince or other... icons on display in the front hallway, before which a lamp was lit at night . . . not so much out of reverence, but so that the room would be well lit." Goes to bed at 3–4 AM pacing alone. "Fyodor Pavlovich had a rather large collection of books, more than a hundred volumes, but no one had ever seen him reading."
 
 ---
 

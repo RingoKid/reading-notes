@@ -233,7 +233,7 @@ Dmitri shifts from poetry to stories. He admits to his pattern with women — se
 
 Dmitri finishes his confession. **Katerina Ivanovna** — his fiancée, proud, wealthy (inherited 80,000 rubles from a general's widow in Moscow). **Grushenka** — the woman Dmitri can't stay away from, a sharp businesswoman under the protection of an old merchant. **Smerdyakov** — Fyodor's lackey, the only one who knows about the sealed envelope.
 
-#### My Questions While Reading
+#### Margin Notes
 
 **Who is the general's wife?** — Katerina Ivanovna's rich relative on her mother's side, living in Moscow. After her other nieces died, she took Katya in and made her the sole heiress.
 
@@ -258,4 +258,40 @@ Alyosha's faith that reason and goodness will sort things out.
 > "I believe in miracles."
 
 Dmitri sending Alyosha to ask Fyodor for money — knowing it won't work, going anyway.
+
+### Ch 6 — "Smerdyakov"
+
+Alyosha arrives at Fyodor's house for coffee and cognac. Fyodor introduces Smerdyakov as "Balaam's ass" — the servant who's started talking. The narrator pauses to give Smerdyakov's full portrait: a cruel, silent child who hung cats and performed mock funerals, who asked Grigory where light came from on the first day and got slapped for it. Sent to Moscow to train as a cook, came back aged and immaculate. Fyodor trusts him with money absolutely. The narrator compares him to a peasant in a Kramskoy painting — a man standing in the forest, not thinking, just contemplating. Could go on a pilgrimage or burn down a village. Or both.
+
+#### Margin Notes
+
+**Balaam's Ass (Numbers 22:21–34)** — Fyodor calls Smerdyakov "Balaam's ass." In the Bible, an ass sees an angel blocking the path that her master can't see. The master beats her; the ass speaks and reproaches him; the master finally sees the angel. The dumb animal that sees what the master can't.
+
+**Gogol & Smaragdov** — Fyodor gives Smerdyakov Gogol's *Evenings on a Farm near Dikanka* (1831) — Gogol's debut, the most fun and lighthearted book in Russian literature. Smerdyakov: "None of it's true." Then *Smaragdov's Universal History* — a well-known primary-school textbook by S. N. Smaragdov (1805–1871). Doesn't finish ten pages
+**The food inspection ritual** — a child told he came from mildew and filth, controlling the one thing he can: what enters his body. Fyodor makes him a cook. Turns neurosis into a job.
+
+**Moscow return** — spends almost his entire salary on wardrobe, pomades, perfumes. The son of "Stinking" Lizaveta scrubbing his origin off his skin.
+
+![[kramskoy-contemplator.jpg|right|300]]
+<div class="img-caption">Ivan Kramskoy, <em>The Contemplator</em> (1876)</div>
+
+**The Contemplator** — Dostoevsky compares Smerdyakov to the peasant in Kramskoy's painting (1876) — not thinking, just absorbing. The distinction between thinking (has direction) and contemplating (collecting impressions without knowing why).
+
+#### Highlights
+
+> "The Lord God created light on the first day, but the sun, the moon, and the stars on the fourth day. Where did the light come from on the first day?"
+
+Grigory's answer is a slap across the face. One week later — his first epileptic fit.
+
+> "He'd sit down to his soup, pick up his spoon, and search in his bowl, bending over it, examining it, picking up a spoonful of soup and holding it up to the light... he'd raise a piece to the light on his fork and examine it as if under a microscope."
+
+> "He came back from Moscow very well dressed, wearing a fine suit and clean linen; he habitually brushed his clothes meticulously twice a day; and he very much liked to polish his fashionable calfskin boots with special English wax so they'd shine like a mirror."
+
+> "Fyodor Pavlovich was drunk and he dropped in the mud in his own courtyard three rainbow-colored, hundred-ruble banknotes... Smerdyakov had picked them up and brought them in yesterday. 'Well, brother, I've never seen anyone like you before.'"
+
+> "The painter Kramskoy has a remarkable work entitled *The Contemplator*: it depicts the forest in winter and, on the road, wearing a ragged frock and bast shoes, a man is lost and standing all by himself; he seems to be deep in thought, but he's not really thinking: he is 'contemplating' something."
+
+> **"Perhaps, all of a sudden, having collected impressions over many years, he'd ditch all of them and set off on a pilgrimage to Jerusalem, to wander and save his soul; perhaps he might suddenly burn down his native village; perhaps it might transpire that he would do both things together."**
+
+> "There are quite a few contemplators among the common folk. Smerdyakov was probably one of them; he was also perhaps gathering impressions avidly, hardly knowing why he was doing so."
 
