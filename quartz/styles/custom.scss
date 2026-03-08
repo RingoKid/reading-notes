@@ -31,10 +31,22 @@ img[alt*="right"] {
   border-radius: 6px;
 }
 
-// Bold text in red to match Obsidian Primary theme
+// Bold text color to match Obsidian Primary theme
+// Light: hsla(4, 56%, 48%, 1) — Dark: hsla(4, 88%, 61%, 1)
 article strong {
-  color: var(--secondary);
+  color: hsla(4, 56%, 48%, 1);
+  font-weight: 750;
 }
+
+:root[saved-theme="dark"] article strong {
+  color: hsla(4, 88%, 61%, 1);
+}
+
+// Header sizes to match Primary theme scaling
+article h1 { font-size: 1.802em !important; }
+article h2 { font-size: 1.602em !important; }
+article h3 { font-size: 1.424em !important; }
+article h4 { font-size: 1.266em !important; }
 
 // Book list on index page
 .book-entry {
