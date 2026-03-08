@@ -104,6 +104,7 @@ What follows is the most poetry-heavy chapter in the novel. Dmitri doesn't have 
 
 **I. His own lines** — repeated to himself before Alyosha arrived:
 
+> [!quote]- Dmitri's private prayer
 > *Glory to God in the world,*
 > *Glory to God in me!*
 
@@ -113,6 +114,7 @@ God is out there in the universe — and also inside him. Two lines, total since
 
 **II. Nekrasov — "Where from the Gloom of Corruption" (1846):**
 
+> [!quote]- Nekrasov — a fallen woman's dignity
 > *Don't believe the worthless, lying crowd,*
 > *Forget your doubts...*
 
@@ -122,6 +124,7 @@ Nikolai Nekrasov (1821–1878) wrote this about a fallen woman — a prostitute 
 
 **III. Apollon Maikov — "Bas-relief" (1842):**
 
+> [!quote]- Silenus on his donkey
 > *And Silenus with his ruddy mug*
 > *Sat on his stumbling ass—*
 
@@ -131,6 +134,7 @@ A bas-relief is a carved stone sculpture — Maikov is describing an ancient car
 
 **IV. Schiller — "The Eleusinian Festival" (1798)** — the poem that makes Dmitri weep:
 
+> [!quote]- The Eleusinian Festival — Ceres finds humanity in ruin
 > *Wild and fearful in his cavern*
 > *Hid the naked troglodyte,*
 > *And the homeless nomad wandered*
@@ -158,8 +162,7 @@ A bas-relief is a carved stone sculpture — Maikov is describing an ancient car
 > *Man in deepest degradation*
 > *Ceres beholds everywhere.*
 
-And later, stanza 7 — the answer to all that degradation:
-
+> [!quote]- Stanza 7 — the answer
 > *Would he purge his soul from vileness*
 > *And attain to light and worth,*
 > *He must turn and cling forever*
@@ -175,6 +178,7 @@ And later, stanza 7 — the answer to all that degradation:
 
 **V. Goethe — "The Divine" (1783):**
 
+> [!quote]- Three words
 > *Be noble, man!*
 
 One line. A three-word prayer he can't live up to. Goethe's poem says humans are the only creatures who can *choose* to be good — nature is indifferent, but we can distinguish right from wrong. Dmitri knows what he should be. He just said it in three words. And then he keeps drinking.
@@ -183,6 +187,7 @@ One line. A three-word prayer he can't live up to. Goethe's poem says humans are
 
 **VI. Schiller — "Ode to Joy" (1785)** — yes, *that* "Ode to Joy," the one Beethoven set to music in the Ninth Symphony. Dmitri tells Alyosha he wants to begin his confession with this poem. The Russian translation is by **Fyodor Tyutchev**, another major Russian poet:
 
+> [!quote]- Ode to Joy — from angels to insects
 > *Joy everlasting fostereth*
 > *The soul of God's creation,*
 > *Her secret force of ferment fires*
@@ -215,6 +220,7 @@ One line. A three-word prayer he can't live up to. Goethe's poem says humans are
 
 All six poems converge on Dmitri's thesis — the most important paragraph he speaks in the entire novel:
 
+> [!quote]- "The battlefield is the heart of man"
 > *"Beauty is a terrible and horrible thing! It's terrible because it's indefinable... Man begins with an ideal of the Madonna and ends up with the ideal of Sodom. It's even worse that a man with the ideal of Sodom in his soul doesn't renounce the ideal of the Madonna; his heart may be on fire from it... What seems to be a disgrace to the mind seems to be pure beauty to the heart. Is there beauty in Sodom? Believe me, for the vast majority of men, beauty exists in Sodom... It's awful that beauty is not only terrible, but it's a mysterious thing. God and the devil are struggling here, and the battlefield is the heart of man."*
 
 **Ivan argues the problem of God with his mind. Dmitri feels it in his body.** Ivan will build the most devastating intellectual case against God's world (the Grand Inquisitor, coming later). Dmitri builds the emotional one: I feel the divine and the degraded at the same time, from the same place, and I can't separate them. Same crisis, completely different languages. Same Karamazov blood, different battlefields.
@@ -243,21 +249,21 @@ Dmitri finishes his confession. **Katerina Ivanovna** — his fiancée, proud, w
 
 #### Highlights
 
+> [!quote]- Katerina's letter
 > "I love you madly... Don't be afraid — I won't do anything to shackle you in any way; I'll be your furniture, the carpet on which you tread... I want to love you forever, I want to save you from yourself..."
 
 Katerina's letter proposing marriage to Dmitri. He carries it everywhere, says he'll die with it.
 
-> "She loves her own virtue, not me."
+> [!quote]- "She loves her own virtue, not me."
+> Dmitri on Katerina — blurted out, then immediately defended her sincerity. Both things true at once.
 
-Dmitri on Katerina — blurted out, then immediately defended her sincerity. Both things true at once.
-
+> [!quote]- "She has a noble intellect."
 > "She'll understand the true depth of this misfortune and she'll calm down. She has a noble intellect."
 
 Alyosha's faith that reason and goodness will sort things out.
 
-> "I believe in miracles."
-
-Dmitri sending Alyosha to ask Fyodor for money — knowing it won't work, going anyway.
+> [!quote]- "I believe in miracles."
+> Dmitri sending Alyosha to ask Fyodor for money — knowing it won't work, going anyway.
 
 ### Ch 6 — "Smerdyakov"
 
@@ -279,19 +285,60 @@ Alyosha arrives at Fyodor's house for coffee and cognac. Fyodor introduces Smerd
 
 #### Highlights
 
+> [!quote]- Where did the light come from?
 > "The Lord God created light on the first day, but the sun, the moon, and the stars on the fourth day. Where did the light come from on the first day?"
 
 Grigory's answer is a slap across the face. One week later — his first epileptic fit.
 
+> [!quote]- The food inspection
 > "He'd sit down to his soup, pick up his spoon, and search in his bowl, bending over it, examining it, picking up a spoonful of soup and holding it up to the light... he'd raise a piece to the light on his fork and examine it as if under a microscope."
 
+> [!quote]- The son of Stinking Lizaveta, immaculate
 > "He came back from Moscow very well dressed, wearing a fine suit and clean linen; he habitually brushed his clothes meticulously twice a day; and he very much liked to polish his fashionable calfskin boots with special English wax so they'd shine like a mirror."
 
+> [!quote]- Three banknotes in the mud
 > "Fyodor Pavlovich was drunk and he dropped in the mud in his own courtyard three rainbow-colored, hundred-ruble banknotes... Smerdyakov had picked them up and brought them in yesterday. 'Well, brother, I've never seen anyone like you before.'"
 
+> [!quote]- The Contemplator
 > "The painter Kramskoy has a remarkable work entitled *The Contemplator*: it depicts the forest in winter and, on the road, wearing a ragged frock and bast shoes, a man is lost and standing all by himself; he seems to be deep in thought, but he's not really thinking: he is 'contemplating' something."
 
-> **"Perhaps, all of a sudden, having collected impressions over many years, he'd ditch all of them and set off on a pilgrimage to Jerusalem, to wander and save his soul; perhaps he might suddenly burn down his native village; perhaps it might transpire that he would do both things together."**
+> [!quote]- Pilgrim or arsonist — or both
+> "Perhaps, all of a sudden, having collected impressions over many years, he'd ditch all of them and set off on a pilgrimage to Jerusalem, to wander and save his soul; perhaps he might suddenly burn down his native village; perhaps it might transpire that he would do both things together."
 
+> [!quote]- Smerdyakov the contemplator
 > "There are quite a few contemplators among the common folk. Smerdyakov was probably one of them; he was also perhaps gathering impressions avidly, hardly knowing why he was doing so."
+
+### Ch 7 — "Controversy"
+
+Smerdyakov hijacks a dinner conversation about a martyred soldier and builds a devastating logical argument for why renouncing God under torture isn't a sin. His reasoning: the moment you think about renouncing, God already excommunicates you — so there's nothing left to renounce. He then challenges Grigory to move a mountain with faith, proving nobody truly believes. Fyodor is delighted. Grigory is furious. Ivan watches with intense curiosity. Alyosha says Smerdyakov doesn't possess "true Russian faith."
+
+#### Margin Notes
+
+**Smerdyakov's anathema paradox** — the moment you think about renouncing God, He cuts you off, so you're no longer Christian, so there's nothing to renounce. A loophole built from God's own rules against Him.
+
+**The mountain challenge** — weaponizes Matthew 17:20 against Grigory: if you really believe, move the mountain. You can't? Then you don't believe either. Nobody does — except maybe two hermits in a desert.
+
+**"Very Russian"** — Fyodor recognizes Smerdyakov's pattern: demolishing all faith while still believing two hidden saints carry it for the whole world. Ivan and Alyosha both agree the pattern is Russian.
+
+**"Casuist" and "Jesuit"** — Fyodor names Smerdyakov's method. Casuistry = technically valid logic used to reach morally wrong conclusions. The Jesuits were famous for it.
+
+#### Highlights
+
+> [!quote]- Smerdyakov's opening argument
+> "It's because, sir," he blurted unexpectedly in a loud voice, "that if this praiseworthy soldier's feat was so great, sir, then, in my opinion, there would have been no sin if, in this occurrence, he'd renounced the name of Christ, so to speak, and even denied his own christening, and, by so doing, saved his own life for future good deeds, which, in the course of years, he'd do as penance for his sin of cowardliness."
+
+> [!quote]- "Serenely and with restraint"
+> "As for being a scoundrel, wait a bit, sir, Grigory Vasilievich," Smerdyakov replied serenely and with restraint. "You'd better consider the case yourself: if I were taken prisoner by the tormentors of Christians, and if they were to demand that I curse God and renounce my own baptism, I'm fully capable of acting according to my own reason, because it wouldn't be a sin."
+
+> [!quote]- The mountain challenge
+> "Judge for yourself, Grigory Vasilievich: it's written in Scripture that if you have faith, even the smallest seed, and you tell the mountain to move into the sea, it will do so, without delay, at your first command. So, Grigory Vasilievich, if I'm an unbeliever, and you're such a believer, and you even abuse me constantly, then you yourself should try telling this mountain to move, not to the sea (because it's very far from here to the sea, sir), but even to move to the stinking little river that flows at the foot of our garden, and you yourself will see that then nothing will happen, sir; everything will stay in the same place and order, no matter how much you shout at it, sir."
+
+> [!quote]- "Very Russian"
+> "I'm not talking about his faith; I'm talking about those two hermits in the desert, about their faith: that's very Russian, isn't it?"
+
+> [!quote]- Nonbelievers out of negligence
+> "We here are nonbelievers out of negligence, because we don't have time: in the first place, we're overcome with practical concerns; in the second place, God provides so little time, only twenty-four hours in a day, so there's no time to get enough sleep, let alone repent of one's sins."
+
+> [!quote]- Smerdyakov's final closer
+> "It may constitute a sin at that, but judge for yourself, Grigory Vasilievich: it more mitigates sin than constitutes one. Why, if at the time I believed in the holy truth, as one is supposed to, then it really would be sinful not to accept torments for one's belief and to convert to the pagan Mohammedan faith. But then it wouldn't have come to torture, sir, because all I would've had to do at that moment was say to that mountain, 'Move and crush that tormentor,' and it would've moved and crushed him like a cockroach, and I would've walked away as if nothing had happened, praising and glorifying God. And if at that very moment, I'd attempted all this and had intentionally shouted to the mountain, 'Crush these tormentors,' and if the mountain didn't do so, then, tell me, how could I refrain from doubting at such a time and at such a terrible moment of great and mortal dread? Even apart from that, I know that I won't fully reach the kingdom of heaven (because the mountain didn't move at my urging: that means that they didn't think much of my faith in the next world, and that I couldn't expect a very great reward up there), so why on earth should I allow them to skin me alive for no purpose? Because even if they'd taken half the skin off my back, even then that mountain wouldn't have moved at my word or cry. But at such a moment not only might doubt overcome me, but I might even lose my reason out of fear, since it would be completely impossible to rely on reason at that time. Therefore, how could I be held principally responsible, if, seeing neither here nor there reward or advantage for myself, at least I managed to save my own skin? But for that reason, trusting fully in the Lord's mercy, I hope that I will be completely forgiven, sir . . ."
 
