@@ -82,8 +82,12 @@ article h4 { font-size: 1.266em !important; }
 }
 
 // Candlelight — warm callout style for [!quote] highlights
+// Must match Obsidian's callout-minimal.css exactly
 .callout[data-callout="quote"] {
+  --bg: transparent !important;
+  --border: transparent !important;
   background: linear-gradient(to right, rgba(180, 130, 50, 0.07), transparent 40%) !important;
+  background-color: transparent !important;
   border: none !important;
   border-left: 2px solid rgba(180, 130, 50, 0.3) !important;
   border-radius: 0 !important;
@@ -98,10 +102,16 @@ article h4 { font-size: 1.266em !important; }
     font-size: 0.82em;
     font-style: italic;
     gap: 4px;
+    padding: 0.5rem 0;
   }
 
   .callout-content {
     font-style: normal;
     opacity: 0.9;
+
+    // Italic text (the actual quotes) gets a distinct color
+    em {
+      color: rgba(130, 170, 220, 0.9);
+    }
   }
 }
