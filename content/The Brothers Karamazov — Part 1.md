@@ -107,8 +107,8 @@ What follows is the most poetry-heavy chapter in the novel. Dmitri doesn't have 
 > [!quote]- Dmitri's private prayer
 > *Glory to God in the world,*
 > *Glory to God in me!*
-
-God is out there in the universe — and also inside him. Two lines, total sincerity, total arrogance. He doesn't see a contradiction. This is his private prayer.
+>
+> God is out there in the universe — and also inside him. Two lines, total sincerity, total arrogance. He doesn't see a contradiction.
 
 ---
 
@@ -117,8 +117,8 @@ God is out there in the universe — and also inside him. Two lines, total since
 > [!quote]- Nekrasov — a fallen woman's dignity
 > *Don't believe the worthless, lying crowd,*
 > *Forget your doubts...*
-
-Nikolai Nekrasov (1821–1878) wrote this about a fallen woman — a prostitute — saying: don't judge her, she has dignity underneath the degradation. Dmitri uses it as a joke ("I'm not really drunk"), but the deeper echo is about himself. He's about to confess his own ruin and he's already begging: don't believe what I look like on the surface. **Connection:** this same poem is the epigraph to Part II of *Notes from Underground* — Dostoevsky keeps circling back to the question of whether a degraded person can still be redeemed.
+>
+> Nikolai Nekrasov (1821–1878) wrote this about a fallen woman — a prostitute — saying: don't judge her, she has dignity underneath the degradation. Dmitri uses it as a joke ("I'm not really drunk"), but the deeper echo is about himself. He's about to confess his own ruin and he's already begging: don't believe what I look like on the surface. **Connection:** this same poem is the epigraph to Part II of *Notes from Underground* — Dostoevsky keeps circling back to the question of whether a degraded person can still be redeemed.
 
 ---
 
@@ -127,8 +127,8 @@ Nikolai Nekrasov (1821–1878) wrote this about a fallen woman — a prostitute 
 > [!quote]- Silenus on his donkey
 > *And Silenus with his ruddy mug*
 > *Sat on his stumbling ass—*
-
-A bas-relief is a carved stone sculpture — Maikov is describing an ancient carving of a Dionysian procession. Silenus is the oldest satyr in Greek mythology — Dionysus's fat, red-faced, perpetually drunk tutor, always barely staying on his donkey. The comic mascot of excess. Dmitri says "I'm not Silenus, but I'm *strong*" — a pun, because in Russian *Silenus* (Силен) and *silen* (силен, "strong") sound identical. He rejects the image but keeps the word. **He absolutely is Silenus.** He's sitting in a crumbling gazebo with brandy at three in the afternoon.
+>
+> A bas-relief is a carved stone sculpture — Maikov is describing an ancient carving of a Dionysian procession. Silenus is the oldest satyr in Greek mythology — Dionysus's fat, red-faced, perpetually drunk tutor, always barely staying on his donkey. The comic mascot of excess. Dmitri says "I'm not Silenus, but I'm strong" — a pun, because in Russian Silenus (Силен) and silen (силен, "strong") sound identical. He rejects the image but keeps the word. He absolutely is Silenus. He's sitting in a crumbling gazebo with brandy at three in the afternoon.
 
 ---
 
@@ -161,18 +161,18 @@ A bas-relief is a carved stone sculpture — Maikov is describing an ancient car
 > *Turns her melancholy gaze,*
 > *Man in deepest degradation*
 > *Ceres beholds everywhere.*
+>
+> The myth: Ceres (Demeter), goddess of harvest, comes down from Olympus searching for her kidnapped daughter Proserpine (Persephone), taken by Hades to the underworld. Instead of finding her daughter, she finds humanity living like animals — cavemen, nomads, hunters. No temples, no beauty, no civilization. Just blood on altars. In the full poem, Ceres eventually teaches humanity agriculture, and from that comes settlement, culture, worship — civilization is born.
 
 > [!quote]- Stanza 7 — the answer
 > *Would he purge his soul from vileness*
 > *And attain to light and worth,*
 > *He must turn and cling forever*
 > *To his ancient Mother Earth.*
-
-**The myth:** Ceres (Demeter), goddess of harvest and the earth's fertility, comes down from Olympus searching for her kidnapped daughter Proserpine (Persephone), taken by Hades to the underworld. Instead of finding her daughter, she finds humanity living like animals — cavemen, nomads, hunters. No temples, no beauty, no civilization. Just blood on altars. In the full poem, Ceres eventually teaches humanity agriculture, and from that comes settlement, culture, worship — civilization is born. The stanza 7 answer: if man wants to purge his vileness, he must cling to Mother Earth — return to the soil, the ground, the physical. Redemption starts in the dirt, not the sky.
-
-**Translation note:** Dmitri reads Schiller in Russian translation by **Vasiliy Zhukovsky**, a major Russian poet — not the German original, despite knowing the German title "An die Freude."
-
-**Why Dmitri sobs:** He identifies with the degraded caveman. *"I think about this humiliated man because I myself am that man."* He knows the poem's answer — cling to the earth, grow, build something — but he can't do it. *"How can I enter into union with Mother Earth forever? I don't kiss the earth; I don't cleave her bosom; should I become a peasant or a shepherd?"* He's an officer, a debtor, a sensualist bouncing between women and taverns. "Cling to the earth" is beautiful advice for a man with no ground under his feet.
+>
+> If man wants to purge his vileness, he must cling to Mother Earth — return to the soil, the ground, the physical. Redemption starts in the dirt, not the sky. Dmitri reads Schiller in Russian translation by Vasiliy Zhukovsky — not the German original, despite knowing the German title "An die Freude."
+>
+> Why Dmitri sobs: he identifies with the degraded caveman. "I think about this humiliated man because I myself am that man." He knows the poem's answer — cling to the earth, grow, build something — but he can't do it. "How can I enter into union with Mother Earth forever? I don't kiss the earth; I don't cleave her bosom; should I become a peasant or a shepherd?" He's an officer, a debtor, a sensualist bouncing between women and taverns. "Cling to the earth" is beautiful advice for a man with no ground under his feet.
 
 ---
 
@@ -180,8 +180,8 @@ A bas-relief is a carved stone sculpture — Maikov is describing an ancient car
 
 > [!quote]- Three words
 > *Be noble, man!*
-
-One line. A three-word prayer he can't live up to. Goethe's poem says humans are the only creatures who can *choose* to be good — nature is indifferent, but we can distinguish right from wrong. Dmitri knows what he should be. He just said it in three words. And then he keeps drinking.
+>
+> One line. A three-word prayer he can't live up to. Goethe's poem says humans are the only creatures who can choose to be good — nature is indifferent, but we can distinguish right from wrong. Dmitri knows what he should be. He just said it in three words. And then he keeps drinking.
 
 ---
 
@@ -206,13 +206,16 @@ One line. A three-word prayer he can't live up to. Goethe's poem says humans are
 > *The wreath, the foaming must,*
 > *To angels — visions of God's throne,*
 > *To insects — sensual lust.*
-
-**Schiller's idea:** Joy is the engine of the entire universe — it moves the stars, grows the grass, holds creation together. Everything alive drinks from the same source. But Joy gives different gifts depending on what you are. To humans: friendship and wine. To angels: God's face. To insects: sensual lust. All from the same divine force.
+>
+> Joy is the engine of the entire universe — it moves the stars, grows the grass, holds creation together. Everything alive drinks from the same source. But Joy gives different gifts depending on what you are. To humans: friendship and wine. To angels: God's face. To insects: sensual lust. All from the same divine force.
 
 ![[karamazov-gazebo-insect-v2.jpg|right|300]]
 <div class="img-caption">"Brother, I am that very insect"</div>
 
-**Why this destroys Dmitri:** *"Brother, I am that very insect."* He receives Joy in its lowest form — as raw lust, as Karamazov sensuality. But it's still Joy. Still from God. He can't renounce it because even his worst impulses feel sacred. He can't purify himself because the beauty and the degradation come from the same place.
+> [!quote]- "Brother, I am that very insect"
+> *"Brother, I am that very insect."*
+>
+> He receives Joy in its lowest form — as raw lust, as Karamazov sensuality. But it's still Joy. Still from God. He can't renounce it because even his worst impulses feel sacred. He can't purify himself because the beauty and the degradation come from the same place.
 
 ---
 
