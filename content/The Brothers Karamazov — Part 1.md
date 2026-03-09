@@ -342,3 +342,79 @@ Smerdyakov hijacks a dinner conversation about a martyred soldier and builds a d
 > [!quote]- Smerdyakov's final closer
 > "It may constitute a sin at that, but judge for yourself, Grigory Vasilievich: it more mitigates sin than constitutes one. Why, if at the time I believed in the holy truth, as one is supposed to, then it really would be sinful not to accept torments for one's belief and to convert to the pagan Mohammedan faith. But then it wouldn't have come to torture, sir, because all I would've had to do at that moment was say to that mountain, 'Move and crush that tormentor,' and it would've moved and crushed him like a cockroach, and I would've walked away as if nothing had happened, praising and glorifying God. And if at that very moment, I'd attempted all this and had intentionally shouted to the mountain, 'Crush these tormentors,' and if the mountain didn't do so, then, tell me, how could I refrain from doubting at such a time and at such a terrible moment of great and mortal dread? Even apart from that, I know that I won't fully reach the kingdom of heaven (because the mountain didn't move at my urging: that means that they didn't think much of my faith in the next world, and that I couldn't expect a very great reward up there), so why on earth should I allow them to skin me alive for no purpose? Because even if they'd taken half the skin off my back, even then that mountain wouldn't have moved at my word or cry. But at such a moment not only might doubt overcome me, but I might even lose my reason out of fear, since it would be completely impossible to rely on reason at that time. Therefore, how could I be held principally responsible, if, seeing neither here nor there reward or advantage for myself, at least I managed to save my own skin? But for that reason, trusting fully in the Lord's mercy, I hope that I will be completely forgiven, sir . . ."
 
+### Ch 8 — "Over the Brandy"
+![[karamazov-icon-spit-v5.jpg|right|300]]
+<div class="img-caption">"I'll beat this mysticism out of her!"</div>
+
+Fyodor, Ivan, and Alyosha drink brandy after the servants leave. Fyodor rants about peasants, Russia, and monasteries — then turns the table into a game show: "Ivan, is there a God?" "No." "Alyosha?" "Yes." "Immortality?" Same answers. Three words from Alyosha — "Immortality is in God" — carry more weight than any argument. The conversation spirals through Fyodor's philosophy of women — his genuine yet predatory eye for beauty — into the story of spitting on Sofia's icon while she prayed. Alyosha breaks down in the same hysterical fit his mother used to have. Ivan snaps: "his mother was also my mother" — the one time his mask cracks in fury. Dmitri kicks the door down.
+
+#### What You Need to Know
+
+**Chermashnya** — a village/small estate belonging to Fyodor, used for timber sales and land deals.
+
+**"Credo"** — Latin for "I believe." The opening word of the Nicene Creed, the fundamental statement of Christian faith recited in every Orthodox and Catholic service.
+
+**Mephistopheles** — the devil in Goethe's *Faust*. A sophisticated, witty, charming tempter — not a fire-and-brimstone demon. "Something Mephistophelian" = clever and seductive, not evil.
+
+**Hero of Our Time / Arbenin** — Two different Lermontov works. *Hero of Our Time*'s protagonist is Pechorin (a cynical, charming manipulator). Arbenin is from a different play, *Masquerade*. Fyodor confuses them — he's drunk.
+
+**Piron** — Alexis Piron (1689–1773), a French writer famous for devastating one-liners. "There's something of Piron in him" = he's got sharp wit.
+
+**Feuerbach** — Ludwig Feuerbach (1804–1872), German philosopher who argued God is a human invention — we project our best qualities onto an imaginary being. His ideas influenced Marx and the whole atheist intellectual tradition in Europe.
+
+**Mount Athos** — a peninsula in Greece that's been an autonomous monastic republic since 972 AD. No women allowed — not even female animals. The spiritual heart of Orthodox monasticism, where the elder tradition was preserved for centuries. "Mount Athos tricks" = old monastic cunning — the shrewdness that comes from centuries of monks navigating politics, money, and power while claiming to be above it all.
+
+**"Observing the feasts of Our Lady"** — more than fasting. In Orthodoxy, observing a feast means abstaining from meat/dairy, attending special liturgies, intensified prayer and prostrations, and behavioral restraint — no entertainment, full spiritual focus. The person is in a state of heightened spiritual openness, stripped down and vulnerable. Similar to how Ramadan isn't just not eating — it's a full spiritual mode shift.
+
+**Icons in this context** — icons are sacred presences, not decorations. Desecrating one is spiritual violence. Keep that in mind when icons come up here. → [[The Brothers Karamazov#Icons]]
+
+**The *klikushi* response** — hysterical fits triggered by spiritual/emotional overwhelm. Can be hereditary. → [[The Brothers Karamazov#The *Klikushi* ("Shriekers")]]
+
+#### Margin Notes
+
+**Fyodor the predator** — he finds the unique thing in each woman and weaponizes it. Adelaida's wildness, Sofia's innocence, old maids' loneliness. His "appreciation" of women IS the weapon. The icon scene is the purest example: he found Sofia's faith — the thing that made her HER — and attacked it directly.
+
+**Fyodor and Smerdyakov's shared logic** — Fyodor spits on the icon and says "nothing will happen to me." Smerdyakov says "tell the mountain to move — it won't." Both are testing God with the same dare: prove yourself or you're not real. Father and son, same method. One does it from spite, the other from cold logic.
+
+#### Highlights
+
+> [!quote]- Ivan on truth reigning
+> *"But if that truth were to come to reign, you'd be the first one to be robbed and then . . . destroyed."*
+>
+> Ivan's reply when Fyodor says abolish the monasteries so truth can reign. Even Fyodor admits he's right.
+
+> [!quote]- Civilization and God
+> *"Civilization wouldn't exist if man hadn't invented God."*
+>
+> Ivan echoing Feuerbach — God as humanity's invention, but a necessary one.
+
+> [!quote]- "Your heart is better than your head"
+> *"No, I'm not angry. I know your thoughts. Your heart is better than your head."*
+>
+> Alyosha to Fyodor. The simplest, truest thing anyone says to him in the whole novel.
+
+> [!quote]- Barefoot girlies
+> *"I'll show you a girlie there; I noticed her a long time ago. She's still running around barefoot. Don't be afraid of barefoot girlies; don't despise them—they're pearls!"*
+>
+> Fyodor trying to lure Ivan to Chermashnya with a girl. The bait is always a woman.
+
+> [!quote]- Russian Marquis de Sades
+> *'We really like,' he says, 'to sentence girls to be whipped, and we let the young lads do the whipping. Afterward, he who whips a girl today, asks her to marry him tomorrow. And this suits the girls, too.' What Marquis de Sades we have!*
+>
+> Fyodor recounting a Mokroye peasant custom — violence and courtship as the same act.
+
+> [!quote]- Fyodor's philosophy of women
+> *"For me. . . . I never met an ugly woman in my whole life, that's been my rule! Can you understand that? . . . According to my rule, you can find something extraordinarily interesting, devil take it, in every woman, that you won't find in any other. You only have to know how to find it, that's the rub! It's a talent!"*
+>
+> Genuine appreciation and predatory instinct fused into one speech. He sees people — and uses what he sees.
+
+> [!quote]- The icon scene
+> *I never used to embrace her, but all of a sudden, when the moment came, I would shower her with affection, crawl on my knees, kiss her feet, and always, always—I remember it as if it were today—I would reduce her to that mellow, jingling, nervous special laugh of hers. . . . I thought, I'll beat this mysticism out of her! 'You see,' I said, 'you see your icon there, well, I'll take it down. Just look, you think it's miraculous, but I will spit on it in front of you, and nothing will happen to me as a result!' When she saw this, good Lord, I thought she'd kill me right then, but she merely jumped up, wrung her hands, and suddenly covered her face, began trembling all over, and fell down on the floor. . . . And there she stayed. . . .*
+>
+> Fyodor's full confession — the laughing, the icon, the collapse. He says "only once" like it's nothing.
+
+> [!quote]- Dmitri arrives
+> *"He'll kill me, he'll kill me! Don't let him, don't!"*
+>
+> The chapter's last line. Fyodor clings to Ivan's coat as Dmitri kicks the door down.
+
