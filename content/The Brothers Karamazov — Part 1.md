@@ -371,7 +371,7 @@ Fyodor, Ivan, and Alyosha drink brandy after the servants leave. Fyodor rants ab
 
 **Icons in this context** — icons are sacred presences, not decorations. Desecrating one is spiritual violence. Keep that in mind when icons come up here. → [[The Brothers Karamazov#Icons]]
 
-**The *klikushi* response** — hysterical fits triggered by spiritual/emotional overwhelm. Can be hereditary. → [[The Brothers Karamazov#The *Klikushi* ("Shriekers")]]
+**The *klikushi* response** — hysterical fits triggered by spiritual/emotional overwhelm. Can be hereditary. → [[The Brothers Karamazov#the-klikushi-shriekers|The Klikushi ("Shriekers")]]
 
 #### Margin Notes
 
