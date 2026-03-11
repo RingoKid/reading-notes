@@ -91,8 +91,8 @@ Fyodor's house introduced — gray, one story with an attic, red iron roof, plea
 Smerdyakov's origin story. Lizaveta — a tiny, barefoot, mentally disabled holy fool (*yurodivy*) loved by the whole town. Gives away every coin and roll she receives. Sleeps outside in all seasons. Her father Ilya beat her; after he died, the town adopted her. **The crime:** a group of drunk men find her sleeping, debate whether she can be "considered a woman" — all say no with "proud loathing." Fyodor declares yes, "very much so, and there was even something exciting about it." Five months later she's pregnant. Dostoevsky never names the act but the implication screams through the page. Grigory defends Fyodor, blames an escaped convict called "Karp the Rifle." But Lizaveta climbs over *Fyodor's* fence to give birth — not any random garden. She dies at dawn. **Grigory's speech:** "An orphaned child of God is kin to all, all the more so for us. Our little departed one sent us this child; he comes from the devil's son and a holy fool. Nurse him and weep no more." Connects his dead six-fingered baby to this newborn — one taken, one given. The child is christened Pavel Fyodorovich. **The naming cruelty:** Fyodor invents the surname *Smerdyakov* — from *Smerdyashchaya* ("Stinking") Lizaveta. Branded his own son with his mother's degradation as a permanent joke. Every time someone says his name, they say "son of the stinking one." The narrator apologizes for spending so long on "common folk" — pure sarcasm, since he just told the most important backstory in the novel.
 
 ### Ch 3 — "The Confession of an Ardent Heart. In Verse."
-![[karamazov-train-girl-v8.png|right|300]]
-<div class="img-caption">"But the daughter, when she came for soup, wore her fancy dresses, even though one of them had a very long train"</div>
+![[karamazov-gazebo-insect-v2.jpg|right|300]]
+<div class="img-caption">"Brother, I am that very insect"</div>
 
 Alyosha heads across town toward Katerina Ivanovna's, taking back routes along fences and gardens. Passing the neighbor's yard — a poor old tradeswoman and her daughter who come to Fyodor's kitchen daily for soup, the daughter still wearing her fancy dresses from her days serving generals in the capital, one with a long train dragging behind her — Alyosha lifts his head and spots Dmitri leaning over the fence, waving wildly but afraid to shout. They scramble into an abandoned gazebo in the garden. Half a bottle of brandy on the table. Dmitri is electric — feverish, ecstatic, terrified. He says he needs Alyosha to run an errand: to Katerina Ivanovna, and to their father. But before the errand, he needs to confess everything.
 
@@ -209,9 +209,6 @@ What follows is the most poetry-heavy chapter in the novel. Dmitri doesn't have 
 >
 > Joy is the engine of the entire universe — it moves the stars, grows the grass, holds creation together. Everything alive drinks from the same source. But Joy gives different gifts depending on what you are. To humans: friendship and wine. To angels: God's face. To insects: sensual lust. All from the same divine force.
 
-![[karamazov-gazebo-insect-v2.jpg|right|300]]
-<div class="img-caption">"Brother, I am that very insect"</div>
-
 > [!quote]- "Brother, I am that very insect"
 > *"Brother, I am that very insect."*
 >
@@ -220,6 +217,8 @@ What follows is the most poetry-heavy chapter in the novel. Dmitri doesn't have 
 ---
 
 #### What the Poems Build To
+![[karamazov-train-girl-v8.png|right|300]]
+<div class="img-caption">"But the daughter, when she came for soup, wore her fancy dresses, even though one of them had a very long train"</div>
 
 All six poems converge on Dmitri's thesis — the most important paragraph he speaks in the entire novel:
 
