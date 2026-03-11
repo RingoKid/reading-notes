@@ -252,19 +252,23 @@ Dmitri finishes his confession. **Katerina Ivanovna** — his fiancée, proud, w
 #### Highlights
 
 > [!quote]- Katerina's letter
-> "I love you madly... Don't be afraid — I won't do anything to shackle you in any way; I'll be your furniture, the carpet on which you tread... I want to love you forever, I want to save you from yourself..."
-
-Katerina's letter proposing marriage to Dmitri. He carries it everywhere, says he'll die with it.
+> *"I love you madly... Don't be afraid — I won't do anything to shackle you in any way; I'll be your furniture, the carpet on which you tread... I want to love you forever, I want to save you from yourself..."*
+>
+> Katerina's letter proposing marriage to Dmitri. He carries it everywhere, says he'll die with it.
 
 > [!quote]- "She loves her own virtue, not me."
+> *"She loves her own virtue, not me."*
+>
 > Dmitri on Katerina — blurted out, then immediately defended her sincerity. Both things true at once.
 
 > [!quote]- "She has a noble intellect."
-> "She'll understand the true depth of this misfortune and she'll calm down. She has a noble intellect."
-
-Alyosha's faith that reason and goodness will sort things out.
+> *"She'll understand the true depth of this misfortune and she'll calm down. She has a noble intellect."*
+>
+> Alyosha's faith that reason and goodness will sort things out.
 
 > [!quote]- "I believe in miracles."
+> *"I believe in miracles."*
+>
 > Dmitri sending Alyosha to ask Fyodor for money — knowing it won't work, going anyway.
 
 ### Ch 6 — "Smerdyakov"
