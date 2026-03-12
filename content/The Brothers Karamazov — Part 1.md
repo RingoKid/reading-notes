@@ -501,3 +501,106 @@ Dmitri storms in looking for Grushenka — he saw her running toward the house. 
 >
 > He'll stop a murder with his hands. He won't stop one in his heart.
 
+### Ch 10 — "Both Together"
+![[karamazov-hand-kiss-refused.jpg|right|300]]
+<div class="img-caption">"Perhaps I won't kiss your hand after all."</div>
+
+Alyosha arrives at Katerina Ivanovna's house to deliver Dmitri's farewell bow. Katerina doesn't accept the message — she reverse-engineers Dmitri's psychology from the emphasis alone, concluding he's in despair, not resolved. She reveals Grushenka is in the next room — her angel, her ally, the solution to everything. Grushenka enters: childlike, soft, sugary. Katerina kisses her hand three times. Grushenka holds Katerina's hand to her lips... pauses... and refuses to kiss it. "So that you'll remember." The room explodes. Grushenka leaves laughing. Katerina collapses — not from the refused kiss, but from learning Dmitri told Grushenka about the night she sold her beauty for her father's sake.
+
+#### What You Need to Know
+
+**"The institute"** — a women's institute, a finishing school for daughters of military officers and nobility. Strict, regimented, French-speaking. Produced women who were educated, polished, and very conscious of social rank.
+
+**"For reasons of etiquette"** — a young unmarried woman couldn't live alone in 1870s Russia without it being scandalous. You needed older female relatives in the house to keep it respectable. The aunts are there to make the household look proper.
+
+**Silk mantilla** — a Spanish-style lace or silk shawl worn over the head and shoulders. Fashionable among upper-class Russian women who followed Western European trends.
+
+**Málaga raisins** — raisins imported from Málaga, southern Spain. A luxury item in 1870s Russia — signals wealth and cosmopolitan taste.
+
+**Venus de Milo** — the famous armless Greek statue of Aphrodite, discovered on the island of Milos in 1820. By Dostoevsky's time it was the canonical standard of female beauty in European culture. When the narrator invokes it, he's reaching for the highest possible reference point.
+
+**"On a scaffold, by the public executioner"** — not metaphorical. Public flogging by an executioner (*palach*) was a real legal punishment in Russia until the judicial reforms of the 1860s. Even after abolition, the image carried weight — total public humiliation, not just pain.
+
+**"Bow farewell" (*proshchal'ny poklon*)** — A formal, final goodbye. Three bows carries Orthodox weight (the Trinity). Dmitri repeated it three times so Alyosha wouldn't soften the delivery — not a ritual, an insistence.
+
+#### Margin Notes
+
+**Katerina reads the bow** — Her first instinct isn't to hear the farewell — it's to diagnose Dmitri's state. She reverse-engineers his psychology from the emphasis: casual = over, emphatic = panic. "He leapt headlong from a mountain." She's probably right. But accurate perception becomes delusional conclusion: "he's in despair" → "I can save him forever." She rebrands rejection as a rescue mission. The most dangerous self-deception is the kind built on true observations.
+
+#### Highlights
+
+> [!quote]- "You might not be happy with her forever"
+> *"No, you may love her forever, but you might not be happy with her forever . . ."*
+>
+> Alyosha at twenty, seeing what Dmitri can't.
+
+> [!quote]- "He leapt headlong from a mountain"
+> *"He didn't leave me with a resolute step; rather, he leapt headlong from a mountain. The emphasis on this word could have been pure bravado."*
+>
+> Katerina reverse-engineering Dmitri's psychology from a single word.
+
+> [!quote]- "I can save him"
+> *"And if so, then he's still not lost! He's merely in despair; but I can save him."*
+>
+> The leap from accurate observation to delusional mission.
+
+> [!quote]- "Let him be ashamed before everyone else, but not before me"
+> *"Let him be ashamed before himself and before everyone else, but not before me."*
+>
+> She doesn't want to fix his shame — she wants to be exempt from it. That's possession, not love.
+
+> [!quote]- "It's passion, not love"
+> *"Can a Karamazov really burn with a passion like that forever? It's passion, not love. He won't marry her because she won't have him."*
+>
+> Katerina diagnosing Dmitri and Grushenka. She might be right about this too.
+
+> [!quote]- "The most fantastic of fantastic creations"
+> *"That young woman is an angel, do you know that? Do you? She's the most fantastic of fantastic creations!"*
+>
+> Katerina calling her rival an angel — seconds before the angel destroys her.
+
+> [!quote]- The wild beast is ordinary
+> *"Here she was, this terrible creature—this 'wild beast,' as his brother Ivan had called her less than half an hour before. And yet, there she stood before him, seeming to be the most ordinary and simple creature."*
+>
+> Every label anyone gave Grushenka dissolves on contact.
+
+> [!quote]- "Perhaps there's too much ecstasy"
+> *"Perhaps there's too much ecstasy"—the thought flashed through Alyosha's mind. He blushed. His heart felt a peculiar discomfort all the time.*
+>
+> Alyosha's gut sensing the performance before anyone else.
+
+> [!quote]- Grushenka's backstory
+> *"There was one man, also an officer; we fell in love with him, and sacrificed everything for him; this was a long time ago, five or six years ago, but he forgot us and got married. Now he's become a widower; he wrote that he's coming here—and you should know that we love only him, him alone."*
+>
+> The first time we learn who Grushenka actually is under the "wild beast" label. Five years of waiting for one man.
+
+> [!quote]- "I have a wicked heart"
+> *"I have a wicked heart; I'm willful. I made Dmitry Fyodorovich, poor fellow, a captive, only to have some fun."*
+>
+> Grushenka told Katerina the truth. Katerina chose not to hear it.
+
+> [!quote]- The refused kiss
+> *"Do you know what, my angelic young lady," she drawled abruptly in the most tender and sugary little voice, "do you know what, perhaps I won't kiss your hand after all."*
+>
+> Two or three moments of silence. Then the cruelest line in Part 1.
+
+> [!quote]- "You kissed my hand, but I didn't kiss yours"
+> *"So that you'll remember that you kissed my hand, but I didn't kiss yours."*
+>
+> The power reversal in one sentence.
+
+> [!quote]- "He told that creature"
+> *"He did it! How could he be so dishonorable, so inhuman? Why, he told that creature what happened then, on that fateful, accursed day! 'You went to sell your beauty, dear young lady.' She knows!"*
+>
+> The real wound. Not the refused kiss — the exposed secret.
+
+> [!quote]- "Don't condemn me"
+> *"Leave, Aleksey Fyodorovich! I'm ashamed, I feel awful! Tomorrow . . . I beg you on my knees, come again tomorrow. Don't condemn me; forgive me; I don't know what I'll do with myself now!"*
+>
+> Katerina stripped of every performance. The only genuine words she speaks all chapter.
+
+> [!quote]- "I arranged this whole scene for your benefit"
+> *"Dearest Alyoshenka, see me off, will you? I'll tell you a little something along the way! I arranged this whole scene for your benefit, Alyoshenka."*
+>
+> Grushenka's exit line. The cruelty was a performance — for Alyosha. Why?
+

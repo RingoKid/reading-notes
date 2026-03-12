@@ -13,7 +13,7 @@ tags:
 **Started:** Jan 31, 2026 04:19 PM
 **Finished:**
 **Library:**
-**Current Position:** Part 1, Book 3, Chapter 10 (not started)
+**Current Position:** Part 1, Book 3, Chapter 11 (not started)
 
 ---
 
@@ -147,8 +147,8 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - **Grigory & Marfa** — old servants who raised Smerdyakov
 - **Elder Zosima** — monk at the monastery, Alyosha's spiritual father
 - **Rakitin (Mikhail)** — young seminarian at the monastery, sharp and clever but self-interested; has feelings for Katerina Ivanovna
-- **Katerina Ivanovna** — Dmitri's fiancée (not yet met properly)
-- **Grushenka (Agrafena Alexandrovna)** — woman both Dmitri and Fyodor are chasing (not yet met properly)
+- **Katerina Ivanovna** — → see full section below
+- **Grushenka (Agrafena Alexandrovna)** — → see full section below
 
 ---
 
@@ -191,6 +191,32 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - Psychology of doubling down (Ch 8): "I did something indecent to him, and since then I've hated him" — people hate the ones they wronged, not the ones who wronged them. And: "If I started it, I will finish it" — when he can't be redeemed, he destroys the room instead
 - Almost believes his own performance — invents grievances about the monastery, nearly weeps from simulated emotion, then piles on more nonsense knowing it's nonsense (Ch 8)
 - **His drawing room ([[The Brothers Karamazov — Part 1#Ch 6 — "Smerdyakov"|Book 3, Ch 6]]):** "The furniture was ancient, white, and upholstered with old red silky material... On the walls, covered in white wallpaper, torn in many places, were two large portraits, one of some prince or other... icons on display in the front hallway, before which a lamp was lit at night . . . not so much out of reverence, but so that the room would be well lit." Goes to bed at 3–4 AM pacing alone. "Fyodor Pavlovich had a rather large collection of books, more than a hundred volumes, but no one had ever seen him reading."
+
+---
+
+## Katerina Ivanovna
+*Dmitri's fiancée. Track her performances and her perceptions.*
+
+- Daughter of a military officer, educated at a women's institute — polished, French-speaking, very conscious of social rank
+- Lives in a spacious, comfortable house on Bolshaya Street with two aunts (one her half sister Agafya Ivanovna's aunt, the other a Moscow lady) — both defer to Katerina in all things, present "for reasons of etiquette"
+- Answers to a benefactress, a general's widow in Moscow — obliged to write her two detailed letters every week
+- Tall, pale with a pale yellow elongated face, large shining dark eyes, charming lips — "something with which his brother could fall terribly in love, but which perhaps it was impossible to love for very long"
+- Proud, authoritative, self-assured — Alyosha's first impression. Second impression: "genuine magnanimous goodness" — she glows differently when she has a plan
+- Wrote Dmitri a letter proposing marriage: "I'll be your furniture, the carpet on which you tread... I want to save you from yourself." He carries it everywhere → [[The Brothers Karamazov — Part 1#Ch 5 — "Confessions of an Ardent Heart (Upside Down)"|Part 1, Ch 5]]
+- **Her house ([[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Book 3, Ch 10]]):** Large room, elegant and abundant furniture — sofas, couches, little divans, large and small tables. Paintings on the walls, vases and lamps on tables, flowers, an aquarium near the window. Silk mantilla on the divan, crystal plate with Málaga raisins, biscuits, unfinished cups of chocolate. Two candles brought in at twilight. Provincial wealth aspiring to cosmopolitan taste.
+
+---
+
+## Grushenka (Agrafena Alexandrovna)
+*The woman both Dmitri and Fyodor are chasing. Track who she actually is.*
+
+- Twenty-two years old. Rather tall, a little shorter than Katerina Ivanovna. Plump, with soft, "seemingly inaudible" movements — feline
+- Very pale, pink-tinged cheeks. Broad face, lower jaw protrudes slightly. Thin upper lip, swollen-looking lower lip twice as full. Dark brown hair, sable-colored eyebrows, blue-gray eyes with long lashes — the kind of face that stops a stranger in a crowd
+- Childlike, openhearted expression — "she regarded things like a child, rejoiced like a child." But the body suggests the Venus de Milo "in somewhat exaggerated fashion"
+- Speaks in a drawling, sugary manner — intentionally lengthening syllables, "bad taste, bearing witness to her unrefined upbringing and her vulgar sense of decency." Contradicts her childlike eyes completely
+- Backstory (told by Katerina): fell in love with an officer five or six years ago, sacrificed everything for him, he forgot her and married someone else. She nearly drowned herself. An old merchant found her, saved her, became "like a father, a friend, a protector." The officer is now a widower and has written that he's coming back — she's loved only him all this time
+- Ivan called her a "wild beast." In person she seems "the most ordinary and simple creature"
+- → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|First appearance: Part 1, Ch 10]]
 
 ---
 
