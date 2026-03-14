@@ -13,7 +13,7 @@ tags:
 **Started:** Jan 31, 2026 04:19 PM
 **Finished:**
 **Library:**
-**Current Position:** Part 1, Book 3, Chapter 11 (not started)
+**Current Position:** Part 2, Book 4, Chapter 1 (not started)
 
 ---
 
