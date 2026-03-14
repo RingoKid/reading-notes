@@ -22,7 +22,7 @@ tags:
 | Part | Books | Notes |
 |------|-------|-------|
 | [[The Brothers Karamazov — Part 1\|Part 1 — The History of a Certain Family]] | Books 1–3 | ✅ In progress |
-| Part 2 — *(not started)* | Books 4–6 | — |
+| [[The Brothers Karamazov — Part 2\|Part 2]] | Books 4–6 | ⏳ Not started |
 | Part 3 — *(not started)* | Books 7–9 | — |
 | Part 4 — *(not started)* | Books 10–12 + Epilogue | — |
 
@@ -39,6 +39,7 @@ tags:
 - **Faith vs. doubt** — the central tension. Each brother represents a different relationship with God
 - **The problem of suffering** — if God exists, why do innocents suffer? Ivan's rebellion isn't atheism, it's rejecting God's world while accepting He might exist (similar to questioning *qadr* in Islam)
 - **The sins of the father** — every problem traces back to Fyodor's abandonment
+- **Performance vs. sincerity** — the novel's hidden spine. Fyodor performs buffoonery, Katerina performs noble sacrifice, Grushenka performs sweetness, monks pre-arrange fake confessions. Even Zosima's system designed to strip away performance gets gamed. The disease is universal
 
 ## Orthodox Christianity — What You Need to Know
 
@@ -79,9 +80,6 @@ No loopholes, no technicalities. You sin → you repent with your whole being (p
 
 ### Elders vs. Institutions
 An elder (*starets*) isn't appointed by the hierarchy — he's recognized by the people. His authority is spiritual, not administrative. Institutional religion and genuine holiness don't always overlap — a tension the novel keeps returning to.
-
-### God, Morality, and "Everything Is Permitted"
-The novel's central philosophical axis: **if there's no God, is morality real?** Without God and immortality, is everything permitted? This maps to Islamic concepts: without belief in *akhira* (the afterlife) and divine judgment, what restrains a person? The Quran asks this same question.
 
 ---
 
@@ -158,17 +156,33 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 ### Dmitri (Mitya)
 - Bounced between guardians — Miusov briefly, then others. Neglected at every stage
 - Alyosha got closer to him more quickly than to Ivan, despite barely knowing him
+- The Madonna/Sodom thesis — beauty as a battleground, feeling the divine and degraded from the same source. "The battlefield is the heart of man" → [[The Brothers Karamazov — Part 1#Ch 3 — "The Confession of an Ardent Heart. In Verse."|Ch 3]]
+- The "insect" self-identification — receives Joy in its lowest form, as raw lust. Can't renounce it because even his worst impulses feel sacred → [[The Brothers Karamazov — Part 1#Ch 3 — "The Confession of an Ardent Heart. In Verse."|Ch 3]]
+- The Katerina Ivanovna origin — the cruel proposition, the five-thousand-ruble bond, her prostration. Almost killed himself from ecstasy, not guilt → [[The Brothers Karamazov — Part 1#Ch 4 — "The Confession of an Ardent Heart. In Anecdotes."|Ch 4]]
+- Engaged to Katerina but consumed by Grushenka. Knows Katerina "loves her own virtue, not me" → [[The Brothers Karamazov — Part 1#Ch 5 — "The Confession of an Ardent Heart. 'Upside Down.'"|Ch 5]]
+- Beat his father bloody, kicked his face — then promised to come back and finish it → [[The Brothers Karamazov — Part 1#Ch 9 — "The Sensualists"|Ch 9]]
+- The disgrace on his chest — something physical, a plan worse than anything he's done, and he won't stop it → [[The Brothers Karamazov — Part 1#Ch 11 — "One More Reputation Ruined"|Ch 11]]
+- Under the willow tree, inventoried hanging materials. Alyosha's arrival flipped suicide into a joke in three seconds → [[The Brothers Karamazov — Part 1#Ch 11 — "One More Reputation Ruined"|Ch 11]]
 
 ### Ivan
 - Supported himself writing newspaper articles during university; by graduation, was publishing book reviews and had built connections in literary circles
 - Published a controversial article on ecclesiastical courts — both religious and secular sides claimed it supported their view; nobody could pin down his actual position
 - His core logic: **morality requires God.** With God, the church should be everything. Without God, everything is permitted. Two sides of the same coin — he argues both with equal precision and won't reveal which side he's on
+- Zosima read him instantly: "this question is not resolved in you, and that is the source of your great anguish" — Ivan blushed → [[The Brothers Karamazov — Part 1#Ch 6 — "Why Is Such a Man Alive!"|Book 2, Ch 6]]
+- Kicked Maksimov off the carriage — first crack in the polished mask → [[The Brothers Karamazov — Part 1#Ch 8 — "A Scandalous Scene"|Book 2, Ch 8]]
+- "One viper devours another" — whispered with a malicious expression, then rebuilt the same impulse as cold philosophy in the courtyard → [[The Brothers Karamazov — Part 1#Ch 9 — "The Sensualists"|Ch 9]]
+- "I allow myself complete leeway" — he'll stop a murder with his hands but won't stop one in his heart → [[The Brothers Karamazov — Part 1#Ch 9 — "The Sensualists"|Ch 9]]
+- Fyodor fears Ivan more than Dmitri. Can't articulate why, but senses cold calculation is more lethal than hot rage → [[The Brothers Karamazov — Part 1#Ch 9 — "The Sensualists"|Ch 9]]
 
 ### Alyosha
 ![[karamazov-alyosha-icon-dore.jpg|right|300]]
 <div class="img-caption">Alyosha's only memory of his mother — weeping before the icon</div>
 - Earliest memory: his mother holding him up to an icon of the Mother of God, weeping and praying — this raw, emotional faith (not intellectual) is what draws him to the monastery
 - Dostoevsky explicitly calls him a **realist** — not a dreamer or naive believer. This is deliberate: his faith is grounded, not escapist. Sets him up as the counter to Ivan's intellectualism
+- Inherited his mother's klikushi response — broke down in the same hysterical fit when Fyodor described spitting on the icon → [[The Brothers Karamazov — Part 1#Ch 8 — "Over the Brandy"|Ch 8]]
+- Reads people with quiet precision — caught Rakitin's feelings for Katerina before Rakitin admitted them, sensed "too much ecstasy" in Katerina's Grushenka performance → [[The Brothers Karamazov — Part 1#Ch 7 — "A Seminarist-Careerist"|Ch 7]], [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
+- "Your heart is better than your head" — the simplest, truest thing anyone says to Fyodor → [[The Brothers Karamazov — Part 1#Ch 8 — "Over the Brandy"|Ch 8]]
+- Chose to stay at the monastery and break every promise he made in town, when he learned Zosima was dying → [[The Brothers Karamazov — Part 1#Ch 11 — "One More Reputation Ruined"|Ch 11]]
 
 ### Smerdyakov
 - Born to "Stinking Lizaveta" in Fyodor's bathhouse, raised by Grigory and Marfa — "without any feeling of gratitude"
@@ -203,6 +217,10 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - Tall, pale with a pale yellow elongated face, large shining dark eyes, charming lips — "something with which his brother could fall terribly in love, but which perhaps it was impossible to love for very long"
 - Proud, authoritative, self-assured — Alyosha's first impression. Second impression: "genuine magnanimous goodness" — she glows differently when she has a plan
 - Wrote Dmitri a letter proposing marriage: "I'll be your furniture, the carpet on which you tread... I want to save you from yourself." He carries it everywhere → [[The Brothers Karamazov — Part 1#Ch 5 — "Confessions of an Ardent Heart (Upside Down)"|Part 1, Ch 5]]
+- Reverse-engineers Dmitri's psychology from a single word's emphasis — accurate observation leading to delusional conclusion: "he's in despair, I can save him" → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
+- "Let him be ashamed before everyone else, but not before me" — she doesn't want to fix his shame, she wants to be exempt from it. Possession, not love → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
+- Invited Grushenka as her "angel" — kissed her hand three times. The performance collapsed when Grushenka refused to kiss back → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
+- The real wound wasn't the refused kiss — it was learning Dmitri told Grushenka about the night she came to his apartment → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
 - **Her house ([[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Book 3, Ch 10]]):** Large room, elegant and abundant furniture — sofas, couches, little divans, large and small tables. Paintings on the walls, vases and lamps on tables, flowers, an aquarium near the window. Silk mantilla on the divan, crystal plate with Málaga raisins, biscuits, unfinished cups of chocolate. Two candles brought in at twilight. Provincial wealth aspiring to cosmopolitan taste.
 
 ---
@@ -216,6 +234,9 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - Speaks in a drawling, sugary manner — intentionally lengthening syllables, "bad taste, bearing witness to her unrefined upbringing and her vulgar sense of decency." Contradicts her childlike eyes completely
 - Backstory (told by Katerina): fell in love with an officer five or six years ago, sacrificed everything for him, he forgot her and married someone else. She nearly drowned herself. An old merchant found her, saved her, became "like a father, a friend, a protector." The officer is now a widower and has written that he's coming back — she's loved only him all this time
 - Ivan called her a "wild beast." In person she seems "the most ordinary and simple creature"
+- The refused kiss: held Katerina's hand to her lips, paused, and said "perhaps I won't kiss your hand after all. So that you'll remember." The cruelest power reversal in Part 1 → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
+- "I have a wicked heart; I'm willful. I made Dmitry Fyodorovich a captive, only to have some fun" — told Katerina the truth. Katerina chose not to hear it → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
+- "I arranged this whole scene for your benefit, Alyoshenka" — the cruelty was a performance for Alyosha. Why? Unanswered → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
 - → [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|First appearance: Part 1, Ch 10]]
 
 ---
