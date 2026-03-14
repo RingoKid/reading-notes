@@ -175,10 +175,10 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - Fyodor fears Ivan more than Dmitri. Can't articulate why, but senses cold calculation is more lethal than hot rage → [[The Brothers Karamazov — Part 1#Ch 9 — "The Sensualists"|Ch 9]]
 
 ### Alyosha
-![[karamazov-alyosha-icon-dore.jpg|right|300]]
-<div class="img-caption">Alyosha's only memory of his mother — weeping before the icon</div>
-- Earliest memory: his mother holding him up to an icon of the Mother of God, weeping and praying — this raw, emotional faith (not intellectual) is what draws him to the monastery
-- Dostoevsky explicitly calls him a **realist** — not a dreamer or naive believer. This is deliberate: his faith is grounded, not escapist. Sets him up as the counter to Ivan's intellectualism
+
+- Earliest memory: his mother holding him up to an icon of the Mother of God, weeping and praying — this raw, emotional faith (not intellectual) is what draws him to the monastery → [[The Brothers Karamazov — Part 1#Ch 4 — "The Third Son, Alyosha"|Ch 4]]
+- Dostoevsky explicitly calls him a **realist** — not a dreamer or naive believer. His faith is grounded, not escapist → [[The Brothers Karamazov — Part 1#Ch 5 — "Elders"|Ch 5]]
+
 - Inherited his mother's klikushi response — broke down in the same hysterical fit when Fyodor described spitting on the icon → [[The Brothers Karamazov — Part 1#Ch 8 — "Over the Brandy"|Ch 8]]
 - Reads people with quiet precision — caught Rakitin's feelings for Katerina before Rakitin admitted them, sensed "too much ecstasy" in Katerina's Grushenka performance → [[The Brothers Karamazov — Part 1#Ch 7 — "A Seminarist-Careerist"|Ch 7]], [[The Brothers Karamazov — Part 1#Ch 10 — "Both Together"|Ch 10]]
 - "Your heart is better than your head" — the simplest, truest thing anyone says to Fyodor → [[The Brothers Karamazov — Part 1#Ch 8 — "Over the Brandy"|Ch 8]]
