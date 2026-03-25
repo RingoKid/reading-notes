@@ -136,10 +136,9 @@ Miusov rehearses being dignified at the Father Superior's dinner — resolves to
 
 Fyodor's house introduced — gray, one story with an attic, red iron roof, pleasant outside but full of hidden staircases, cupboards, and storerooms. Built for a large family, occupied by one man. Rats in the walls — "It's not so boring in the evenings when one is home alone." Household: Fyodor and Ivan in the main house; Grigory, Marfa, and Smerdyakov in the servants' lodge. Grigory refused to leave after serfdom ended — "Do you understand what duty is?" During drunken bouts Fyodor feels "spiritual terror and moral shudder" — his soul "quivering in his throat" — and sometimes crosses the courtyard at night just to look at Grigory's face and exchange a meaningless word.
 
+Grigory and Marfa's marriage: silent, rigid, built on understood hierarchy.
 ![[karamazov-marfa-dance.jpg|right|300]]
-<div class="img-caption">Marfa's one forbidden dance — Grigory watches from the doorway</div>
-
-Grigory and Marfa's marriage: silent, rigid, built on understood hierarchy. She was smarter in practical matters but submitted without complaint. He pulled her hair once — she danced "in the special Russian style" at the Miusovs', showing individuality from before him. Never again. The six-fingered baby: born deformed, Grigory digs in the garden for three days in silence, calls the baby "a dragon... a mistake of nature." Won't look at the child — but when it dies two weeks later, places it in the coffin himself and bows to the earth. After the burial, turns to the Book of Job and Isaac the Syrian. The very night the baby is buried, groaning from the bathhouse — Stinking Lizaveta has climbed in and given birth.
+<div class="img-caption">Marfa's one forbidden dance — Grigory watches from the doorway</div> She was smarter in practical matters but submitted without complaint. He pulled her hair once — she danced "in the special Russian style" at the Miusovs', showing individuality from before him. Never again. The six-fingered baby: born deformed, Grigory digs in the garden for three days in silence, calls the baby "a dragon... a mistake of nature." Won't look at the child — but when it dies two weeks later, places it in the coffin himself and bows to the earth. After the burial, turns to the Book of Job and Isaac the Syrian. The very night the baby is buried, groaning from the bathhouse — Stinking Lizaveta has climbed in and given birth.
 
 #### Margin Notes
 
