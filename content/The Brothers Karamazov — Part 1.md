@@ -315,7 +315,7 @@ Dmitri shifts from poetry to stories. He admits to his pattern with women — se
 ![[karamazov-dmitri-letter-v2.jpg|right|300]]
 <div class="img-caption">"I want to save you from yourself..."</div>
 
-Dmitri finishes his confession. **Katerina Ivanovna** — his fiancée, proud, wealthy (inherited 80,000 rubles from a general's widow in Moscow). **Grushenka** — the woman Dmitri can't stay away from, a sharp businesswoman under the protection of an old merchant. **Smerdyakov** — Fyodor's lackey, the only one who knows about the sealed envelope.
+Dmitri finishes his confession — and it turns into a full inventory of the catastrophe. **Katerina Ivanovna** — his fiancée, proud, wealthy (inherited 80,000 rubles from a general's widow in Moscow). She wrote him a letter proposing marriage: "I'll be your furniture, the carpet on which you tread... I want to save you from yourself." He carries it everywhere. But Dmitri knows the truth — "she loves her own virtue, not me." The engagement is a performance of noble sacrifice, not love. **Grushenka** — the woman Dmitri can't stay away from, a sharp businesswoman under the protection of an old merchant. Both Dmitri and Fyodor are chasing her, and the competition is turning violent. **The sealed envelope** — Fyodor has prepared three thousand rubles in a sealed packet for Grushenka, tied with ribbon, addressed to her, kept in his house. Smerdyakov is the only one who knows exactly where it is. Dmitri knows it exists. The money, the woman, the father — the collision course is set.
 
 #### Margin Notes
 
