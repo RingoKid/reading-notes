@@ -85,38 +85,6 @@ Zosima wakes before dawn knowing he won't survive the day — but he's joyful, n
 >
 > The narrator tells you directly — this was love disguised as a lecture.
 
-### Ch 2 — "At His Father's"
-
-### Ch 3 — "He Gets Involved with Schoolboys"
-
-### Ch 4 — "At the Khokhlakovs'"
-
-### Ch 5 — "Laceration in the Drawing Room"
-
-### Ch 6 — "Laceration in a Peasant Hut"
-
-### Ch 7 — "And in the Fresh Air"
-
 ## Book 5 — Pro and Contra (Ch 1-7)
 
-### Ch 1 — "A Betrothal"
-
-### Ch 2 — "Smerdyakov with a Guitar"
-
-### Ch 3 — "The Brothers Get Acquainted"
-
-### Ch 4 — "Rebellion"
-
-### Ch 5 — "The Grand Inquisitor"
-
-### Ch 6 — "Very Obscure for Now"
-
-### Ch 7 — "It's Always Interesting to Chat with a Clever Man"
-
 ## Book 6 — The Russian Monk (Ch 1-3)
-
-### Ch 1 — "Father Zosima and His Visitors"
-
-### Ch 2 — "Notes from the Holy Life of the Late Priest and Monk the Elder Zosima"
-
-### Ch 3 — "From Father Zosima's Conversations and Teachings"

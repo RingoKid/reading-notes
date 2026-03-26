@@ -295,6 +295,38 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 
 ---
 
+## Illustration Style
+
+**Art style:** 19th century Russian literary illustration — black and white mezzotint print, smooth tonal rendering, dramatic chiaroscuro lighting. NOT crosshatched ink drawing (too sketchy) and NOT engraving (triggers borders from Gemini).
+
+**What works in prompts:**
+- "mezzotint print, smooth tonal rendering, dramatic chiaroscuro lighting"
+- "Very dark overall, dramatic shadows"
+- "Smooth deep shadows, no visible texture, no crosshatching, just solid darkness"
+- "Smooth gradual tonal transitions from light to dark. Refined detail only in the lit areas"
+- "No borders, no frame, no vignette. Black fills the entire canvas edge to edge"
+
+**What to avoid in prompts:**
+- "Doré" (triggers rounded corner vignette borders)
+- "engraving" (also triggers borders)
+- "crosshatched ink drawing" (produces sketchy hand-drawn look, not the smooth dark style)
+- "pen and ink" (same problem)
+
+**Composition rules:**
+- No faces — show posture, silhouette, setting instead
+- Single light source — candle, lamp, window, doorway. Everything else pure black
+- Discuss caption first (it dictates the image), then composition with the user
+- Start with free model to test composition, switch to pro for final quality
+
+**Captions:**
+- Dark, punchy, direct Dostoevsky quotes
+- No character names — mystery over explanation
+- The caption should be the best line from the chapter — a character reveal, the moment someone accidentally tells you who they are
+
+**Aspect ratio:** 3:4 for plates, 1:1 for square compositions
+
+---
+
 ## Discussion Points
 *Things to talk about — with others or yourself*
 
