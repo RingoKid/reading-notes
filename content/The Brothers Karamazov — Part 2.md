@@ -85,6 +85,34 @@ Zosima wakes before dawn knowing he won't survive the day — but he's joyful, n
 >
 > The narrator tells you directly — this was love disguised as a lecture.
 
+### Ch 2 — "At His Father's"
+
+Alyosha visits Fyodor the morning after Dmitri's beating. The old man is alone — bruised, wrapped in a red kerchief, checking his reflection for the fortieth time. He rants about all three sons: Ivan is spying on him, Dmitri will be crushed like a cockroach, and he'll marry Grushenka himself if he wants. Between the scheming and self-pity, flashes of genuine perception break through — he reads Ivan's emptiness and Katerina's attraction to chaos with unsettling clarity. Then he softens, asks Alyosha to come back for fish soup tomorrow, and the moment Alyosha leaves, pours himself another half glass.
+
+#### What You Need to Know
+
+**Grushka** — an impolite diminutive of Grushenka's name. Fyodor uses it deliberately — possessive and disrespectful at the same time.
+
+**Vanka** — an impolite diminutive of Ivan's name. Same energy — Fyodor cuts his sons down to size through language.
+
+**Calamanco** — a glossy woolen fabric, usually striped or checked, popular in the 18th–19th centuries. Fyodor's "capacious, soiled overcoat, made of yellow summer calamanco" — old-fashioned, stained, too big. The man's wardrobe matches his soul.
+
+#### Margin Notes
+
+**Psalm 1:4 — the dust that disperses** — Fyodor compares Ivan to "a cloud of dust... if a wind comes up, the dust disperses." The footnote points to Psalm 1:4: "The ungodly are like the chaff which the wind driveth away." Fyodor is calling Ivan spiritually empty — a man with no roots, no love, no anchor. Coming from someone who lights his icons just so the room is well-lit, the irony is devastating. But he's not wrong: he fears Ivan more than Dmitri because rage is predictable, but a person with no attachments is capable of anything.
+
+#### Highlights
+
+> [!quote]- "I'll crush Mitka like a cockroach"
+> *"You may as well know that I won't leave a will at all. And I'll crush Mitka, like a cockroach. I squash black cockroaches at night with my slipper: they crack when you step on them. And your Mitka will, too. Your Mitka, because you love him. You do love him, but I'm not afraid you do. But if Ivan loved him, I'd be afraid for myself. But Ivan doesn't love anybody. He's not one of us; these people like Ivan aren't like us, they're like a cloud of dust. . . . If a wind comes up, the dust disperses. . . ."*
+>
+> Fyodor on his sons — Dmitri is a cockroach he can crush, but Ivan is dust with no anchor. He fears the empty one more than the violent one.
+
+> [!quote]- "That's whom those tender young ladies love"
+> *"That's whom those tender young ladies love, hard drinkers and scoundrels! They're worthless, these pale young ladies; what a difference it would be. . . . Well! If I had his youth, and if I still looked as I did then (because I was much better-looking than he is at twenty-eight), I'd be running after women, just like he is. What a rascal he is! But he won't get Grushenka, he won't! I'll make mincemeat out of him!"*
+>
+> Fyodor competing with his own son for a woman — simultaneously disgusting and completely right about Katerina's attraction to Dmitri's chaos.
+
 ## Book 5 — Pro and Contra (Ch 1-7)
 
 ## Book 6 — The Russian Monk (Ch 1-3)
