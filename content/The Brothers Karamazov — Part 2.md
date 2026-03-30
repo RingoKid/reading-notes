@@ -113,6 +113,31 @@ Alyosha visits Fyodor the morning after Dmitri's beating. The old man is alone �
 >
 > Fyodor competing with his own son for a woman — simultaneously disgusting and completely right about Katerina's attraction to Dmitri's chaos.
 
+### Ch 3 — "He Gets Involved with Schoolboys"
+
+Alyosha leaves Fyodor's house and stumbles into something completely unrelated to the Karamazov drama — a group of six schoolboys throwing stones at a lone boy across a ditch. The boy is nine, pale, sickly, dressed in a coat he's outgrown, pockets stuffed with rocks. He knows Alyosha's name and targets him specifically. Alyosha shields the boy from the group, then approaches him alone — gently, with no aggression. The boy bites his finger to the bone. Alyosha doesn't retaliate. He asks: "How am I guilty before you?" The boy bursts into tears and runs. Alyosha resolves to find him again.
+
+#### Margin Notes
+
+**A nine-year-old nadryv** — The boy standing alone against six, pockets full of rocks, *wanting* to be hit — that's a nadryv. He's not trying to win. He's suffering publicly, tearing himself open, daring the world to make it worse. And the book that contains this chapter is called "Lacerations."
+
+#### Highlights
+
+> [!quote]- How to gain a child's trust
+> *Alyosha began simply with this practical comment, without any premeditated cunning; meanwhile, for an adult to gain the trust of a child, especially a whole group of children, it's impossible to begin any other way. One must open in an earnest, matter-of-fact manner, so you're on an equal footing. Alyosha understood this instinctively.*
+>
+> The narrator pausing mid-scene to explain Alyosha's technique — same instinct he uses with everyone. Meet people where they are.
+
+> [!quote]- The shield
+> *He jumped up and stood facing the flying stones to shield the boy across the ditch.*
+>
+> Active love in its most literal form — the boy was already throwing rocks at him, and Alyosha steps in front of him anyway.
+
+> [!quote]- "How am I guilty before you?"
+> *"Well, fine," he said. "You see how badly you bit me. Are you satisfied? Now tell me what it is I've done to you." The boy regarded him with astonishment. "I don't know you at all and I'm seeing you for the first time," Alyosha continued in the same serene manner, "but it can't be that I've done nothing to you. You wouldn't hurt me for no reason. So what have I done? How am I guilty before you?" Instead of an answer, the boy suddenly burst into tears, loudly, and just as suddenly ran away.*
+>
+> The kid bit him to the bone. Alyosha's response isn't anger, isn't forgiveness — it's assuming he's the one who caused this. That's what breaks the boy open. Not violence, not kindness — being seen.
+
 ## Book 5 — Pro and Contra (Ch 1-7)
 
 ## Book 6 — The Russian Monk (Ch 1-3)
