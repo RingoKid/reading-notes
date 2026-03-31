@@ -138,6 +138,92 @@ Alyosha leaves Fyodor's house and stumbles into something completely unrelated t
 >
 > The kid bit him to the bone. Alyosha's response isn't anger, isn't forgiveness — it's assuming he's the one who caused this. That's what breaks the boy open. Not violence, not kindness — being seen.
 
+### Ch 4 — "At the Khokhlakovs'"
+
+#### What You Need to Know
+
+**C'est tragique** — French for "it's tragic." Madame Khokhlakova drops French phrases mid-conversation — a social habit of the Russian upper class. Speaking French signaled education and European refinement. By the 1870s it was becoming a bit dated and performative, which fits her perfectly.
+
+**Goulard's extract** — a lead-based astringent solution used from the 18th into the 20th century to treat cuts and wounds. Named after Thomas Goulard, a French surgeon. It was a common household remedy — the 19th-century equivalent of reaching for Neosporin. Mildly toxic by modern standards, but nobody knew that yet.
+
+### Ch 5 — "Laceration in the Drawing Room"
+![[karamazov-laceration-drawing-room-v11.jpg|right|300]]
+<!-- prompt: "Black and white cinematic photograph, film noir lighting, high contrast, grainy film texture. 1870s Russia. Shot from neck down — faces are NOT visible, cropped above the chin. A woman on the right side of the frame, very close to the camera, standing perfectly still, seen from the side. Only her neck down is in frame. Sharp focus on her — she wears a long formal 1870s Russian dress with high collar, fitted bodice, lace cuffs. Her hands clasped together at her waist, rigid posture. She faces toward the left. Strong directional light from the right illuminates her dress and hands, casting dramatic shadows. On the left side much further away, a young man with his back to the camera, walking away into a dim drawing room interior. He wears a long 19th century Russian frock coat, no hat. He is small in the frame, distant, slightly out of focus, softly blurred, fading into the dark background. Only his back visible. The room behind him is dark with faint outlines of furniture and a doorway. Deep blacks, rich contrast. The woman is the sharpest and most prominent element. Dark moody atmosphere. Cinematic composition inspired by Wong Kar-wai. No borders, no frame." | model: pro (gemini-3.1-flash-image-preview) | res: 1K | date: 2026-03-30 -->
+<div class="img-caption">"But for now, I don't need your hand"</div>
+
+Alyosha walks into Madame Khokhlakova's drawing room where Ivan and Katerina are finishing a conversation. Katerina asks Alyosha for validation, then delivers a monologue: she will never desert Dmitri, she'll follow him forever, be his sister, his friend, his god. Ivan quietly approves. Madame Khokhlakova interrupts — "that's only for this moment, it's only yesterday's insult." Ivan builds on it: with Katerina's character, this moment will become a permanent duty she feeds on. Katerina flips instantly from tears to composure at the mention of Moscow. Alyosha blurts out that Katerina loves Ivan, not Dmitri, and loves Dmitri only in laceration. Katerina calls him a holy fool. Ivan stands up and delivers his farewell — she never loved him, she kept him nearby for revenge, she loves Dmitri because he insults her, and if Dmitri reformed she'd leave him. He quotes Schiller and walks out. Katerina collapses into hysterics, then resurfaces composed, hands Alyosha two hundred rubles, and sends him to find Staff Captain Snegiryov — the man Dmitri dragged through the street by his beard — to deliver the money.
+
+#### What You Need to Know
+
+**Friedrich Schiller (1759–1805)** — German poet, playwright, philosopher. His obsession was the war between passion and morality — characters torn between desire and duty, idealists who crash into reality, noble souls who self-destruct. Every educated Russian in the 1800s grew up on him; he was THE poet-philosopher of their youth. Each Karamazov quotes Schiller but grabs a different piece: Dmitri takes the ecstasy ("Ode to Joy" twisted into degradation), Fyodor takes the family tragedy (*The Robbers* — accidentally casting himself as the root of the problem), Ivan takes the cold dignity (*The Glove* — see below). Same poet, completely different mirrors. By the 1870s quoting Schiller was already a little dated, a little romantic-era — so when these characters reach for him, they're also reaching backward, for a version of themselves that still believed in something.
+
+**"Den Dank, Dame, begehr ich nicht"** — German, from Schiller's ballad *Der Handschuh* ("The Glove" or "The Gauntlet," 1797). Means: "Madame, I do not want your gratitude." In the poem, a lady drops her glove into a lion pit to test whether her knight truly loves her. He retrieves it, then throws it in her face with this line — proving his courage but refusing to be a performing animal for someone who treats love as a power game.
+
+#### Margin Notes
+
+**Sister, friend, god** — Katerina's monologue escalates through three levels without her noticing: sister → friend → "his god to whom he will pray — he owes me that at least." By the end she's calling herself "an instrument, a mechanism." The language shifts from sacrifice to domination.
+
+**Three voices, one moment** — Alyosha: sincerity equals truth. Khokhlakova: this is just yesterday's insult talking. Ivan: yes, but she'll weld herself to it forever.
+
+**Ivan's insult as strategy?** — "The more he insults you, the more you love him" — if that's true, did Ivan just do the most effective thing possible to make her love him?
+
+#### Highlights
+
+> [!quote]- Alyosha's active love paralyzed
+> *"Alyosha's heart couldn't endure such uncertainty, because the nature of his love was always active. He couldn't love passively; if he loved someone, he set about trying to help him. And for that, he had to set himself a goal... But instead of a clear goal in everything, there was only vagueness and muddle, 'laceration.'"*
+>
+> The operating system that drives Alyosha — active love requires a clear goal, and this situation has none.
+
+> [!quote]- "What if she doesn't love anyone?"
+> *"One more idea came into his mind — suddenly and irrepressibly: 'What if she doesn't love anyone, neither the one nor the other?'"*
+>
+> Alyosha reaches the most radical conclusion possible — then immediately retreats from it.
+
+> [!quote]- Katerina's pity confession
+> *"I don't even know whether I love him now. I feel pity for him: that's poor proof of love. If I loved him, continued to love him, then perhaps I wouldn't pity him now; on the contrary, I'd hate him..."*
+>
+> The most honest Katerina has been in the entire novel — examining her own feelings instead of performing them.
+
+> [!quote]- "I'll be his god"
+> *"I'll be his god to whom he will pray — he owes me that at least for his betrayal... I will become nothing but a means for his happiness, an instrument, a mechanism for his happiness, and this will last my whole life"*
+>
+> Katerina describing devotion in the language of domination — instrument, mechanism. She doesn't hear herself.
+
+> [!quote]- The narrator on Katerina's performance cracking
+> *"She was gasping for breath... everything came out very hastily, and too openly. There was much youthful lack of restraint, much that reflected yesterday's irritation, a need to show her pride; she felt all this herself. Her face suddenly grew dark, and the look in her eyes became ugly."*
+>
+> She heard herself and didn't like what she heard. The narrator tells you she knew.
+
+> [!quote]- Khokhlakova's bomb
+> *"But that's only for this moment... And just what is this moment? It's only yesterday's insult — that's what this moment means!"*
+>
+> The comic relief character delivers the most devastating line in the room.
+
+> [!quote]- Ivan on Katerina's character
+> *"What for others is merely a promise, for her is an age-old, burdensome, perhaps gloomy, but unceasing duty. And she'll be nourished by the feeling of this duty fulfilled!"*
+>
+> Ivan doesn't disagree with Khokhlakova — he builds on her. The suffering is the meal.
+
+> [!quote]- The instant flip
+> *"Instead of a poor, insulted young woman, weeping now in the midst of a breakdown in her emotions, there suddenly appeared a woman, completely in control of herself, even extremely satisfied with something, just as if she were overjoyed by something"*
+>
+> Tears gone, no trace. A different person showed up in the same body at the mention of Moscow.
+
+> [!quote]- Alyosha falls off a roof
+> *"Call Dmitry now... let him come here and take you by the hand; then let him take brother Ivan by the hand and join your two hands. Because you torment Ivan, simply because you love him... and you torment him because you love Dmitry in laceration... you don't love him for real... but because you've convinced yourself that you do."*
+>
+> The quietest person in the room says the loudest thing anyone's said in the novel. Katerina calls him a holy fool — meant as an insult, accidentally true.
+
+> [!quote]- Ivan's farewell
+> *"You really love only him. And the more he insults you, the more you love him. That's your rupture... If he ever reformed, you'd desert him and stop loving him entirely... I'm too young and I loved you too intensely... Afterward I'll forgive, but for now, I don't need your hand."*
+>
+> The first time Ivan is fully unmasked. No philosophy, no games. Pride → analysis → vulnerability, in that order.
+
+> [!quote]- Alyosha's grief
+> *"Lise, I'm in serious grief! I'll return shortly, but I'm in great, great grief!"*
+>
+> The boy who detonated the room now has to carry the wreckage.
+
 ## Book 5 — Pro and Contra (Ch 1-7)
 
 ## Book 6 — The Russian Monk (Ch 1-3)

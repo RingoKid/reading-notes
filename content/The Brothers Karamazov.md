@@ -13,7 +13,7 @@ tags:
 **Started:** Jan 31, 2026 04:19 PM
 **Finished:**
 **Library:**
-**Current Position:** Part 2, Book 4, Chapter 4 (not started)
+**Current Position:** Part 2, Book 4, Chapter 6 — "Laceration in a Peasant Hut"
 
 ---
 
@@ -25,6 +25,8 @@ tags:
 | [[The Brothers Karamazov — Part 2\|Part 2 — Lacerations]] | Books 4–6 | ⏳ In progress |
 | Part 3 — *(not started)* | Books 7–9 | — |
 | Part 4 — *(not started)* | Books 10–12 + Epilogue | — |
+
+**Background:** [[The Brothers Karamazov — How It Was Written|How It Was Written]] — serialization history, Dostoevsky's process, the Pushkin Speech, sources
 
 ---
 
@@ -145,7 +147,10 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - **Grigory & Marfa** — old servants who raised Smerdyakov
 - **Elder Zosima** — monk at the monastery, Alyosha's spiritual father
 - **Rakitin (Mikhail)** — young seminarian at the monastery, sharp and clever but self-interested; has feelings for Katerina Ivanovna
-- **Father Ferapont** — elderly monk (~75), Zosima's polar opposite. Lives alone in a decrepit cell by the apiary, eats two pounds of bread every three days, wears thirty-pound iron chains under his coat. Still tall, strong, athletic build, thick dark hair, large protruding gray eyes. Speaks in northern dialect (*okanye*). Wears a reddish peasant coat with a rope belt, blackened shirt he never removes, bare feet in worn-out shoes. Treated as holy fool or ascetic — the ambiguity is the point. Claims to see devils on monks and converse with the Holy Spirit. Many brothers sympathize with him; dangerous opponent to the institution of elders → [[The Brothers Karamazov — Part 2#Ch 1 — "Father Ferapont"|Book 4, Ch 1]]
+- **Father Ferapont** — elderly monk (~75), Zosima's polar opposite. Lives alone in a decrepit cell by the apiary, eats two pounds of bread every three days, wears thirty-pound iron chains under his coat. Still tall, strong, athletic build, thick dark hair, large protruding gray eyes. Speaks in northern dialect (*okanye*). Wears a reddish peasant coat with a rope belt, blackened shirt he never removes, bare feet in worn-out shoes. Treated as holy fool or ascetic — the ambiguity is the point. Claims to see devils on monks and converse with the Holy Spirit. Many brothers sympathize with him; dangerous opponent to the institution of elders
+- **Madame Khokhlakova** — wealthy widow. Owns three properties: an estate in another province (her largest), a house in Moscow, and a handsome two-story stone house in town inherited from her forebears — one of the best in town. Nervous, dramatic, drops French mid-sentence
+- **Lise (Khokhlakova)** — Madame Khokhlakova's daughter, confined to a wheelchair. Sharp, commanding, theatrical
+- **Dr. Herzenshtube** — the town doctor. Running joke: always comes, examines, says he "can't understand a thing"
 - **Katerina Ivanovna** — → see full section below
 - **Grushenka (Agrafena Alexandrovna)** — → see full section below
 
