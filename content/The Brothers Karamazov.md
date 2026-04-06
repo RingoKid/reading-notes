@@ -13,7 +13,7 @@ tags:
 **Started:** Jan 31, 2026 04:19 PM
 **Finished:**
 **Library:**
-**Current Position:** Part 2, Book 4, Chapter 6 — "Laceration in a Peasant Hut"
+**Current Position:** Part 2, Book 4, Chapter 7 — "And in the Fresh Air"
 
 ---
 
@@ -151,6 +151,8 @@ The monastery is based on **Optina Pustyn**, a real place Dostoevsky visited in 
 - **Madame Khokhlakova** — wealthy widow. Owns three properties: an estate in another province (her largest), a house in Moscow, and a handsome two-story stone house in town inherited from her forebears — one of the best in town. Nervous, dramatic, drops French mid-sentence
 - **Lise (Khokhlakova)** — Madame Khokhlakova's daughter, confined to a wheelchair. Sharp, commanding, theatrical
 - **Dr. Herzenshtube** — the town doctor. Running joke: always comes, examines, says he "can't understand a thing"
+- **Staff Captain Snegiryov (Nikolai Ilych)** — retired infantry officer, pushed out for drinking. About forty-five, short, skinny, thin reddish beard like a wet loofah. Lives with his entire family in a single-room izba on Ozernaya Street. Oscillates between aggression and servility — performs his own degradation as a weapon. Fyodor used him for some kind of business; Dmitri dragged him by the beard through the street → [[The Brothers Karamazov — Part 2#Ch 6 — "Laceration in a Peasant Hut"|Book 4, Ch 6]]
+- **Snegiryov's family** — Arina Petrovna (wife, ~43, half-witted, swollen legs, haughty stare); Varvara Nikolaevna (eldest daughter, sharp-tongued, refuses to play along with her father's performances); Nina Nikolaevna (younger daughter, ~20, hunchbacked, lame, crutches, "extraordinarily lovely and kind eyes"); Ilyusha/Ilyushechka (son, the boy who bit Alyosha's finger — attacked him because Alyosha is a Karamazov) → [[The Brothers Karamazov — Part 2#Ch 6 — "Laceration in a Peasant Hut"|Book 4, Ch 6]]
 - **Katerina Ivanovna** — → see full section below
 - **Grushenka (Agrafena Alexandrovna)** — → see full section below
 

@@ -224,6 +224,56 @@ Alyosha walks into Madame Khokhlakova's drawing room where Ivan and Katerina are
 >
 > The boy who detonated the room now has to carry the wreckage.
 
+### Ch 6 — "Laceration in a Peasant Hut"
+![[karamazov-peasant-hut-v4.jpg|right|300]]
+<!-- prompt: "19th century Russian literary illustration, black and white mezzotint print, smooth tonal rendering, dramatic chiaroscuro lighting. Very dark overall. A dilapidated Russian log izba viewed from a three-quarter angle at a distance, showing both the front face with three small windows and the side with a low wooden door. The hut is small in the frame, set back, crooked, sagging, logs warped and splitting, roof planks cracked. The three front windows glow faintly from a candle or lamp inside the hut — the interior light is the ONLY light source in the entire scene. The window glow casts a faint warm spill onto the muddy ground directly in front of the hut. The exterior walls of the hut are dark, lit only by the faint glow leaking from the windows. In the dark muddy courtyard, a single dark-hided cow standing still, partially caught in the faint window light spill. Shallow puddles in the mud reflect the faint window glow. The sky is completely black, no moon, no clouds visible. Everything outside the window glow is pure black. Smooth deep shadows, no crosshatching, solid darkness. No people, no figures. No borders, no frame, no vignette. Black fills the entire canvas edge to edge." | model: free (gemini-2.5-flash-image) | date: 2026-04-05 -->
+<div class="img-caption">"In circumstances where it's impossible to receive you hospitably"</div>
+
+Alyosha, still reeling from the drawing room disaster, walks across town to deliver Katerina's two hundred rubles to Staff Captain Snegiryov — the man Dmitri dragged by the beard through the street. He finds the family crammed into a single-room izba: the captain, his half-witted wife Arina Petrovna, his sharp-tongued daughter Varvara, his hunchbacked daughter Nina on crutches, and Ilyusha — the boy who bit Alyosha's finger — feverish behind a curtain. Snegiryov oscillates wildly between aggression and servility, performing his own degradation with an intensity that makes it impossible to tell where the act ends and the wound begins. Alyosha quietly understands: the boy attacked him because he's a Karamazov — his father's humiliator's brother. Varvara, the only one who refuses to play along, calls her father a buffoon. Snegiryov grabs Alyosha and drags him outside to talk.
+
+#### What You Need to Know
+
+**Pushkin's "The Demon" (1823)** — a short lyric poem about an "evil genius" — a spirit of doubt and negation who visits the young narrator at a formative moment and poisons everything: inspiration, love, freedom, beauty. The demon doesn't destroy these things — he *dismisses* them, calls them contemptible dreams. Pushkin wrote it at twenty-four; it became one of the most memorized poems in Russian education. The line referenced in this chapter: "And in all of nature / There was nothing he wanted to bless."
+
+**Nankeen** — a durable yellowish cotton fabric, originally from Nanjing (Nanking), China. Popular across Europe and Russia in the 18th and early 19th centuries for everyday clothing. By the 1870s it was outdated — cheap, old-fashioned. Wearing nankeen in the 1870s is like wearing polyester bell-bottoms today: it tells you the person stopped buying clothes a long time ago.
+
+**Staff captain (*shtabs-kapitan*)** — a junior officer rank in the Imperial Russian Army, between lieutenant and captain. Not prestigious — a career staff captain is someone who never advanced. Being "retired" and "chastened for his vices" means pushed out, likely for drinking.
+
+**Loofah (*mochalka*)** — a bath sponge made from dried plant fiber, used in Russian *banyas* (bathhouses). In this chapter, the word does double duty — watch for it.
+
+**Chernomazov** — Katz footnotes: *kara* means "black" in Turkish, *cherno* is Russian for "black." Both translate to the same thing — so "Karamazov" and "Chernomazov" are the same name in different languages.
+
+#### Margin Notes
+
+**Degradation as weapon** — Snegiryov performs self-destruction so aggressively it becomes an attack — offering to chop off his own fingers, naming his own humiliation before anyone else can. Same energy as Marmeladov in Crime and Punishment.
+
+#### Highlights
+
+> [!quote]- The room
+> *"On the table there was a frying pan with the remains of some fried eggs, a small piece of half-eaten bread, and, in addition, a small bottle of vodka with the faint remains of earthly bliss at the bottom."*
+>
+> The narrator calling the last drops of vodka "earthly bliss" — not mocking, almost tender.
+
+> [!quote]- First look at Snegiryov
+> *"He seemed like a man who'd been submitting and tolerating a great deal for a long time, but who had now jumped up and was asserting himself. Or, even better, he resembled a man who very much wanted to strike you, but who was terribly afraid that you'd strike him back."*
+>
+> The captain's entire psychology in two sentences — before a single line of dialogue.
+
+> [!quote]- The four fingers
+> *"I'm sorry, sir, about your precious little finger, but would you like me, before I beat Ilyushechka, to chop off my own four fingers, right now, before your very eyes, for your warranted satisfaction? With this very knife? Four fingers, I think, should be enough to satisfy your thirst for revenge, sir, or would you like a fifth?"*
+>
+> Snegiryov performing self-destruction so aggressively it becomes an attack.
+
+> [!quote]- Alyosha understands
+> *"I think I understand everything now... In other words, your boy's a good lad, he loves his father, and he threw himself at me as your offender's brother.... Now I understand."*
+>
+> He skips past the bite, past the rocks, and sees the love underneath.
+
+> [!quote]- Varvara
+> *"But that's enough clowning around; some fool comes in and you put us to shame!"*
+>
+> The only person in the room who won't play along — Pushkin's demon in the flesh.
+
 ## Book 5 — Pro and Contra (Ch 1-7)
 
 ## Book 6 — The Russian Monk (Ch 1-3)
