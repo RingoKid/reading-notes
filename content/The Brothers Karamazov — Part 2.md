@@ -274,6 +274,87 @@ Alyosha, still reeling from the drawing room disaster, walks across town to deli
 >
 > The only person in the room who won't play along — Pushkin's demon in the flesh.
 
+### Ch 7 — "And in the Fresh Air"
+![[karamazov-third-man-avenue-crosshatch-v3.jpg|right|300]]
+<!-- prompt: "Cinematic composition inspired by the final shot of The Third Man (1949). 19th century Russian literary illustration, black and white crosshatched ink drawing, fine detailed pen and ink linework, dense crosshatching for deep shadows, delicate parallel lines for mid-tones, white paper showing through for highlights. A long straight tree-lined avenue stretching from the foreground deep into the far distance, vanishing point dead center. Tall bare autumn trees line BOTH sides, evenly spaced, trunks forming dark columns, bare branches arching overhead against a heavy dark grey sky. Behind the trees on both sides, sparse old weathered Russian Orthodox grave markers — a mix of different sizes and shapes, scattered RANDOMLY, some tilted, some half-hidden by undergrowth. A DIM LIGHT SOURCE from the RIGHT SIDE casts LONG SHADOWS of the tree trunks ACROSS the dirt path from right to left — parallel diagonal dark stripes creating a rhythmic grid pattern. On the LEFT side at MID-NEAR distance, a young Russian Orthodox novice monk in a black wool cassock, BODY facing sideways but HEAD turned to look down the road. Upright posture, one arm at hip reaching into side pocket. In the FAR distance near the vanishing point, a TINY dark silhouette walking AWAY from camera. Dense crosshatching in foreground, lighter in mid-ground, fine sparse lines at horizon. NO white borders. Dark edges." | model: pro (gemini-3.1-flash-image-preview) | res: 1K | date: 2026-04-10 -->
+<div class="img-caption">"What would I tell my boy?"</div>
+
+Snegiryov drags Alyosha outside — "the air is fresh, sir, but in my mansion it's not so fresh at all" — and pours out the full story of Dmitri's humiliation: the beard-pulling, the duel offer Snegiryov couldn't accept, and what it did to Ilyusha. The boy was crushed — attacked classmates, planned sword revenge, asked "are rich people the strongest on earth?", fantasized about moving to another town with a horse and cart. On the stone by the road, with kites in the sky, father and son wept together. Then Alyosha delivers Katerina's two hundred rubles. Snegiryov lights up — mineral water for Ninochka, freedom for Varya, the horse and cart for Ilyusha. The dream builds for two full pages. Then he crumples the bills and tramples them into the sand: "Tell those who sent you that the 'loofah' won't sell his honor, sir!" He runs, turns once to shout the real reason — "What would I tell my boy if I took the money from you for our shame?" — and disappears. Alyosha picks up the bills. They are entirely unharmed.
+
+#### Margin Notes
+
+**The second** — In dueling code, you didn't challenge someone directly — you sent a "second," a respectable gentleman intermediary, to negotiate terms. "Give satisfaction" was the formal phrase for agreeing to face someone on the field of honor.
+
+**"The kindest people who drink"** — Half-true folk wisdom, half-excuse. Tenderness and self-destruction from the same well.
+
+**The bills that survive** — "They even rustled like new ones." The only thing broken in this scene was Snegiryov himself.
+
+**April 1879** — Last chapter of the monthly installment. Dostoevsky cliffhangers on a trampled father's pride, then opens May with Ivan's rebellion on children's suffering.
+
+**Alyosha's "success"** — He went to "report on his success in carrying out her commission." He was sent to offer, not to have it accepted.
+
+#### Highlights
+
+> [!quote]- "The air is fresh, sir"
+> *"The air is fresh, sir, but in my mansion it's not so fresh at all, in every sense of the word."*
+>
+> The chapter's title — a throwaway line that means everything. "In every sense of the word."
+
+> [!quote]- Three ladies
+> *"Three ladies: one crippled and half-witted, one crippled and hunchbacked, and the third, not crippled and far too smart; she's a student, sir, trying to get to Petersburg so she can work there on the banks of the Neva for the rights of Russian women."*
+>
+> Snegiryov introducing his wife and daughters as a catalog of damage — the contempt is a plea.
+
+> [!quote]- "Truly a gallant spirit"
+> *"'You,' he says, 'are an officer, and I'm an officer; if you can find a second, a respectable man, then send him to me; I will give you satisfaction, even though you're really a scoundrel!' That's what he said, sir! Truly a gallant spirit! Ilyusha and I withdrew, but a genealogical family picture remained, imprinted on Ilyusha's soul forever."*
+>
+> Snegiryov retelling Dmitri's duel offer — the deference is a scream.
+
+> [!quote]- "What will become of all of them"
+> *"I won't mention Ilyusha, he's only nine, sir; I'm alone in the world and if I die, what will become of all these depths of misery, that's what I am asking you, sir. And if that's so, and I challenge him to a duel, and if he kills me right then and there, what will happen? What will become of all of them? It's even worse if he doesn't kill me, but only cripples me: I won't be able to work, but I'll still be a mouth to feed."*
+>
+> Honor is a luxury only the rich can afford.
+
+> [!quote]- "The kindest people who drink"
+> *"You, sir, shouldn't despise me: in Russia men who drink are the kindest people. The kindest people among us are those who drink the most."*
+>
+> The Russia Dostoevsky loved and the Russia Dostoevsky was terrified of, in one sentence.
+
+> [!quote]- "Are rich people the strongest on earth?"
+> *"'Papa,' he asks, 'are rich people the strongest on earth?' 'Yes,' I say, 'Ilyusha, there is no one stronger than rich people.' 'Papa,' he says, 'I'll become rich, become an officer, and vanquish everyone; the tsar will reward me, I'll come back home and no one will dare . . . ' Then he fell silent and says, his little lips trembling as they had before: 'Papa, what a nasty town we live in.'"*
+>
+> A nine-year-old discovering money is power — then crashing into the reality that they don't have any.
+
+> [!quote]- "I could kill you now, but I forgive you, so there!"
+> *"'Papa,' he says, 'I'll tackle him as soon as I'm big enough, and I'll knock his sword out of his hand with my own sword; I'll throw myself at him, tackle him, brandish my sword over him and I'll say, "I could kill you now, but I forgive you, so there!"'"*
+>
+> The nine-year-old already infected with the full Dostoevskian moral imagination — revenge isn't enough, he needs to defeat AND forgive.
+
+> [!quote]- Warm torrents
+> *"All of a sudden he rushes to me, embraces me with his two little arms, and holds on tight. You know, when children are silent and proud, and keep their tears to themselves, they can suddenly burst forth, if a great sadness occurs, and then the tears don't simply flow, sir, they come in great torrents, sir. With these warm torrents he suddenly drenched my whole face."*
+>
+> The emotional center of Book 4 — thirty kites in the sky, a father and son on a stone, the boy's tears doing what his words couldn't.
+
+> [!quote]- "All men must be enemies on earth"
+> *"She entreats you to accept her help. . . . You've both been insulted by the same man. . . . In other words, a sister is coming to a brother with help. . . . Here's the two hundred rubles, and I swear that you must accept them, otherwise . . . otherwise, all men must be enemies on earth! But there are brothers on earth."*
+>
+> Alyosha delivering Katerina's frame in good faith — the money sincere, the gesture performed. Both.
+
+> [!quote]- Sixteen rubles
+> *"She came to us for the summer, with only sixteen rubles; she'd earned them giving lessons and had put them aside for her trip back to Petersburg in September, that is now. But we took her money and lived on it and now she has nothing for her return, sir."*
+>
+> The one functional member of the family pulled into the pit — not by cruelty, just by hunger.
+
+> [!quote]- "I'm not worth this piece"
+> *"She suffers, and believe me, sir, this angel endures and doesn't moan, so as not to wake us. We eat whatever we can get; she takes what's left over, what's hardly fit only to feed the dog. 'I'm not worth this piece,' she says, 'I'm taking it away from you; I'm a burden to you.'"*
+>
+> Ninochka — the hunchbacked daughter who apologizes for eating. The one place Snegiryov's performance drops entirely.
+
+> [!quote]- "They even rustled like new ones"
+> *"'What would I tell my boy if I took the money from you for our shame?' After saying this, he ran without turning around. . . . They were merely creased and crumpled, trampled in the sand, but entirely unharmed, and they even rustled like new ones when Alyosha unfolded them and smoothed them out."*
+>
+> The money survives. The man doesn't. The last paragraph of the April 1879 installment — and of Book 4.
+
 ## Book 5 — Pro and Contra (Ch 1-7)
 
 ## Book 6 — The Russian Monk (Ch 1-3)
